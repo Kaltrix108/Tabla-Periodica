@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Tabla Periódica Interactiva</title>
+<meta name="description" content="Explora los 118 elementos químicos de forma visual, interactiva y educativa.">
+<meta name="theme-color" content="#0a1128">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Tabla Periódica Interactiva">
+<meta property="og:description" content="Explora los 118 elementos químicos de forma visual, interactiva y educativa.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="icons/icon-512.png">
+
+<!-- Iconos -->
+<link rel="icon" type="image/png" href="icons/favicon.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<a href="#tabla-principal" class="skip-link">Saltar al contenido principal</a>
+
+<!-- ===================== ENCABEZADO ===================== -->
+<header class="app-header">
+  <div class="header-top">
+    <div class="brand">
+      <img src="icons/icon-192.png" alt="Logo Tabla Periódica Interactiva" class="brand-logo">
+      <div class="brand-text">
+        <h1>TABLA PERIÓDICA</h1>
+        <p>Explora los 118 elementos químicos</p>
+      </div>
+    </div>
+
+    <nav class="main-nav" aria-label="Navegación principal">
+      <button class="nav-link active" data-view="tabla">Tabla</button>
+      <button class="nav-link" data-view="comparar">Comparar</button>
+      <button class="nav-link" data-view="familias">Familias</button>
+      <button class="nav-link" data-view="quiz">Quiz</button>
+      <button class="nav-link" data-view="acerca">Acerca de</button>
+    </nav>
+
+    <button id="menuToggle" class="menu-toggle" aria-label="Abrir menú" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+
+  <div class="header-tools">
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/></svg>
+      <input type="text" id="searchInput" placeholder="Buscar por nombre, símbolo o número atómico..." aria-label="Buscar elemento" autocomplete="off" spellcheck="false">
+      <button id="clearSearch" class="search-clear" type="button" aria-label="Limpiar búsqueda" title="Limpiar búsqueda" hidden>✕</button>
+      <div id="searchSuggestions" class="search-suggestions" role="listbox" hidden></div>
+    </div>
+
+    <div class="tool-buttons">
+      <button id="filterToggle" class="tool-btn" aria-expanded="false">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M3 5h18v2H3zm4 6h10v2H7zm4 6h2v2h-2z"/></svg>
+        Filtros
+      </button>
+      <button id="randomBtn" class="tool-btn">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M17 3h4v4h-2V6.41l-4.29 4.3-1.42-1.42L17.59 5H17V3zM3 3h8v2H5v6H3V3zm18 12v6h-8v-2h6v-4h2zM3 15h2v4h6v2H3v-6z"/></svg>
+        Aleatorio
+      </button>
+      <button id="darkModeToggle" class="tool-btn icon-only" aria-label="Cambiar modo oscuro">
+        <svg id="iconMoon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M12.3 2a9.7 9.7 0 1 0 9.7 10.9A8 8 0 0 1 12.3 2z"/></svg>
+      </button>
+      <button id="installBtn" class="tool-btn install-btn" hidden>
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M5 20h14v-2H5v2zM12 2 6.5 7.5l1.42 1.42L11 5.83V16h2V5.83l3.08 3.09L17.5 7.5z"/></svg>
+        Instalar
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ===================== PANEL DE FILTROS ===================== -->
+<aside id="filterPanel" class="filter-panel" hidden>
+  <div class="filter-group">
+    <h3>Familia</h3>
+    <div class="filter-chips" data-filter-type="familia">
+      <button class="chip" data-value="Metales alcalinos">Metales alcalinos</button>
+      <button class="chip" data-value="Metales alcalinotérreos">Alcalinotérreos</button>
+      <button class="chip" data-value="Metales de transición">Metales de transición</button>
+      <button class="chip" data-value="Metales postransición">Metales postransición</button>
+      <button class="chip" data-value="Metaloides">Metaloides</button>
+      <button class="chip" data-value="No metales">No metales</button>
+      <button class="chip" data-value="Halógenos">Halógenos</button>
+      <button class="chip" data-value="Gases nobles">Gases nobles</button>
+      <button class="chip" data-value="Lantánidos">Lantánidos</button>
+      <button class="chip" data-value="Actínidos">Actínidos</button>
+      <button class="chip" data-value="Hidrógeno">Hidrógeno</button>
+    </div>
+  </div>
+  <div class="filter-group">
+    <h3>Estado físico</h3>
+    <div class="filter-chips" data-filter-type="estado">
+      <button class="chip" data-value="Sólido">Sólidos</button>
+      <button class="chip" data-value="Líquido">Líquidos</button>
+      <button class="chip" data-value="Gas">Gases</button>
+    </div>
+  </div>
+  <div class="filter-group">
+    <h3>Bloque</h3>
+    <div class="filter-chips" data-filter-type="bloque">
+      <button class="chip" data-value="s">Bloque s</button>
+      <button class="chip" data-value="p">Bloque p</button>
+      <button class="chip" data-value="d">Bloque d</button>
+      <button class="chip" data-value="f">Bloque f</button>
+    </div>
+  </div>
+  <button id="clearFilters" class="clear-btn">Limpiar filtros</button>
+</aside>
+
+<!-- ===================== CONTENIDO PRINCIPAL ===================== -->
+<main id="tabla-principal">
+
+  <!-- VISTA: TABLA -->
+  <section id="view-tabla" class="view active">
+    <div class="table-scroll-wrap">
+      <div id="periodicTable" class="periodic-table" role="grid" aria-label="Tabla periódica de los elementos"></div>
+    </div>
+
+    <div id="legend" class="legend" aria-label="Leyenda de familias químicas"></div>
+
+    <p id="searchMeta" class="search-meta" aria-live="polite" hidden></p>
+    <p id="noResults" class="no-results" hidden>No se encontraron elementos que coincidan con tu búsqueda.</p>
+  </section>
+
+  <!-- VISTA: COMPARAR -->
+  <section id="view-comparar" class="view">
+    <h2 class="view-title">Comparar elementos</h2>
+    <p class="view-subtitle">Selecciona dos elementos para ver sus propiedades lado a lado.</p>
+    <div class="compare-selectors">
+      <div class="compare-select-wrap">
+        <label for="compareSelect1">Elemento 1</label>
+        <select id="compareSelect1"></select>
+      </div>
+      <div class="compare-vs">VS</div>
+      <div class="compare-select-wrap">
+        <label for="compareSelect2">Elemento 2</label>
+        <select id="compareSelect2"></select>
+      </div>
+    </div>
+    <div id="compareResult" class="compare-result"></div>
+  </section>
+
+  <!-- VISTA: FAMILIAS -->
+  <section id="view-familias" class="view">
+    <h2 class="view-title">Familias químicas</h2>
+    <p class="view-subtitle">Selecciona una familia para conocer sus características y sus elementos.</p>
+    <div id="familyList" class="family-list"></div>
+    <div id="familyDetail" class="family-detail" hidden></div>
+  </section>
+
+  <!-- VISTA: QUIZ -->
+  <section id="view-quiz" class="view">
+    <div class="quiz-head">
+      <div>
+        <h2 class="view-title">Quiz de química</h2>
+        <p class="view-subtitle">Pon a prueba lo que sabes sobre los 118 elementos.</p>
+      </div>
+      <div class="quiz-score" aria-live="polite"><span id="quizScore">0</span> puntos</div>
+    </div>
+
+    <div id="quizStart" class="quiz-card quiz-start">
+      <div class="quiz-icon" aria-hidden="true">⚗</div>
+      <h3>¿Listo para el reto?</h3>
+      <p>Responde 10 preguntas aleatorias. Cada respuesta correcta suma 10 puntos.</p>
+      <button id="quizStartBtn" class="quiz-primary">Comenzar quiz</button>
+    </div>
+
+    <div id="quizGame" class="quiz-card" hidden>
+      <div class="quiz-progress-row">
+        <span id="quizProgressText">Pregunta 1 de 10</span>
+        <span id="quizStreak">Racha: 0</span>
+      </div>
+      <div class="quiz-progress" aria-hidden="true"><span id="quizProgressBar"></span></div>
+      <p id="quizQuestionType" class="quiz-question-type"></p>
+      <h3 id="quizQuestion" class="quiz-question"></h3>
+      <div id="quizOptions" class="quiz-options"></div>
+      <p id="quizFeedback" class="quiz-feedback" aria-live="polite"></p>
+      <button id="quizNextBtn" class="quiz-secondary" hidden>Siguiente pregunta</button>
+    </div>
+
+    <div id="quizResult" class="quiz-card quiz-result" hidden>
+      <div class="quiz-icon" aria-hidden="true">🏆</div>
+      <h3 id="quizResultTitle">¡Quiz terminado!</h3>
+      <p id="quizResultText"></p>
+      <div class="quiz-result-stats">
+        <div><strong id="quizFinalScore">0</strong><span>Puntos</span></div>
+        <div><strong id="quizCorrect">0</strong><span>Correctas</span></div>
+        <div><strong id="quizBestStreak">0</strong><span>Mejor racha</span></div>
+      </div>
+      <button id="quizRestartBtn" class="quiz-primary">Jugar otra vez</button>
+    </div>
+  </section>
+
+  <!-- VISTA: ACERCA DE -->
+  <section id="view-acerca" class="view">
+    <div class="about-card">
+      <img src="icons/icon-192.png" alt="Logo Tabla Periódica Interactiva" class="about-logo">
+      <h2>Tabla Periódica Interactiva</h2>
+      <p>Una herramienta educativa para explorar los 118 elementos químicos de forma visual, rápida e interactiva.</p>
+      <ul class="about-features">
+        <li>Información completa de los 118 elementos</li>
+        <li>Búsqueda y filtros avanzados</li>
+        <li>Comparador de elementos</li>
+        <li>Funciona sin conexión a Internet</li>
+        <li>Instalable como aplicación</li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<!-- ===================== PANEL DE ELEMENTO (MODAL) ===================== -->
+<div id="elementOverlay" class="element-overlay" hidden>
+  <div id="elementPanel" class="element-panel" role="dialog" aria-modal="true" aria-labelledby="elPanelName">
+    <button id="closeElementPanel" class="close-btn" aria-label="Cerrar información del elemento">✕</button>
+
+    <div class="el-panel-header">
+      <div id="elPanelBadge" class="el-panel-badge"></div>
+      <div>
+        <h2 id="elPanelName"></h2>
+        <p id="elPanelCategory"></p>
+      </div>
+    </div>
+
+    <div class="el-panel-tabs" role="tablist" aria-label="Información del elemento">
+      <button class="el-tab active" data-tab="basica" role="tab" aria-selected="true" aria-controls="tab-basica" id="tab-btn-basica">Básica</button>
+      <button class="el-tab" data-tab="valencia" role="tab" aria-selected="false" aria-controls="tab-valencia" id="tab-btn-valencia">Valencia</button>
+      <button class="el-tab" data-tab="fisicas" role="tab" aria-selected="false" aria-controls="tab-fisicas" id="tab-btn-fisicas">Físicas</button>
+      <button class="el-tab" data-tab="quimicas" role="tab" aria-selected="false" aria-controls="tab-quimicas" id="tab-btn-quimicas">Químicas</button>
+      <button class="el-tab" data-tab="historia" role="tab" aria-selected="false" aria-controls="tab-historia" id="tab-btn-historia">Historia</button>
+      <button class="el-tab" data-tab="usos" role="tab" aria-selected="false" aria-controls="tab-usos" id="tab-btn-usos">Usos</button>
+      <button class="el-tab" data-tab="curiosidades" role="tab" aria-selected="false" aria-controls="tab-curiosidades" id="tab-btn-curiosidades">Curiosidades</button>
+    </div>
+
+    <div class="el-panel-body">
+      <div class="el-tab-content active" data-tab-content="basica" id="tab-basica" role="tabpanel" aria-labelledby="tab-btn-basica"></div>
+      <div class="el-tab-content" data-tab-content="valencia" id="tab-valencia" role="tabpanel" aria-labelledby="tab-btn-valencia"></div>
+      <div class="el-tab-content" data-tab-content="fisicas" id="tab-fisicas" role="tabpanel" aria-labelledby="tab-btn-fisicas"></div>
+      <div class="el-tab-content" data-tab-content="quimicas" id="tab-quimicas" role="tabpanel" aria-labelledby="tab-btn-quimicas"></div>
+      <div class="el-tab-content" data-tab-content="historia" id="tab-historia" role="tabpanel" aria-labelledby="tab-btn-historia"></div>
+      <div class="el-tab-content" data-tab-content="usos" id="tab-usos" role="tabpanel" aria-labelledby="tab-btn-usos"></div>
+      <div class="el-tab-content" data-tab-content="curiosidades" id="tab-curiosidades" role="tabpanel" aria-labelledby="tab-btn-curiosidades"></div>
+    </div>
+  </div>
+</div>
+
+<div id="toast" class="toast" hidden></div>
+
+<script src="script.js"></script>
+</body>
+</html>

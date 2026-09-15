@@ -1,0 +1,5242 @@
+[
+  {
+    "numeroAtomico": 1,
+    "simbolo": "H",
+    "nombre": "Hidrógeno",
+    "masaAtomica": 1.008,
+    "familia": "Hidrógeno",
+    "categoria": "Hidrógeno",
+    "bloque": "s",
+    "grupo": 1,
+    "periodo": 1,
+    "estado": "Gas",
+    "densidad": 8.988e-05,
+    "puntoFusion": -259.16,
+    "puntoEbullicion": -252.87,
+    "electronegatividad": 2.2,
+    "configuracionElectronica": "1s1",
+    "electronesPorNivel": [
+      1
+    ],
+    "valencias": [
+      1,
+      -1
+    ],
+    "estadosOxidacion": [
+      -1
+    ],
+    "descubrimiento": "Henry Cavendish",
+    "añoDescubrimiento": 1766,
+    "descubridor": "Henry Cavendish",
+    "origenNombre": "Del griego 'hydro' (agua) y 'genes' (generador)",
+    "usos": [
+      "Producción de amoníaco",
+      "Combustible de cohetes",
+      "Hidrogenación de aceites",
+      "Pilas de combustible"
+    ],
+    "datosCuriosos": [
+      "Es el elemento más abundante del universo",
+      "Forma el 75% de la masa del universo",
+      "Puede existir como metal a presiones extremas"
+    ]
+  },
+  {
+    "numeroAtomico": 2,
+    "simbolo": "He",
+    "nombre": "Helio",
+    "masaAtomica": 4.0026,
+    "familia": "Gases nobles",
+    "categoria": "Gases nobles",
+    "bloque": "s",
+    "grupo": 18,
+    "periodo": 1,
+    "estado": "Gas",
+    "densidad": 0.0001785,
+    "puntoFusion": -272.2,
+    "puntoEbullicion": -268.93,
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "1s2",
+    "electronesPorNivel": [
+      2
+    ],
+    "valencias": [
+      0
+    ],
+    "estadosOxidacion": [
+      0
+    ],
+    "descubrimiento": "Pierre Janssen / Norman Lockyer",
+    "añoDescubrimiento": 1868,
+    "descubridor": "Pierre Janssen / Norman Lockyer",
+    "origenNombre": "Del griego 'helios' (sol)",
+    "usos": [
+      "Globos e inflado de dirigibles",
+      "Enfriamiento de imanes superconductores (resonancia magnética)",
+      "Atmósferas de buceo profundo",
+      "Detección de fugas"
+    ],
+    "datosCuriosos": [
+      "Fue detectado primero en el Sol antes que en la Tierra",
+      "Es el único elemento que no se solidifica a presión normal",
+      "El segundo elemento más abundante del universo"
+    ]
+  },
+  {
+    "numeroAtomico": 3,
+    "simbolo": "Li",
+    "nombre": "Litio",
+    "masaAtomica": 6.94,
+    "familia": "Metales alcalinos",
+    "categoria": "Metales alcalinos",
+    "bloque": "s",
+    "grupo": 1,
+    "periodo": 2,
+    "estado": "Sólido",
+    "densidad": 0.534,
+    "puntoFusion": 180.5,
+    "puntoEbullicion": 1342,
+    "electronegatividad": 0.98,
+    "configuracionElectronica": "[He] 2s1",
+    "electronesPorNivel": [
+      2,
+      1
+    ],
+    "valencias": [
+      1
+    ],
+    "estadosOxidacion": [
+      1
+    ],
+    "descubrimiento": "Johan August Arfwedson",
+    "añoDescubrimiento": 1817,
+    "descubridor": "Johan August Arfwedson",
+    "origenNombre": "Del griego 'lithos' (piedra)",
+    "usos": [
+      "Baterías recargables",
+      "Tratamiento de trastornos bipolares",
+      "Aleaciones ligeras",
+      "Lubricantes industriales"
+    ],
+    "datosCuriosos": [
+      "Es el metal sólido más ligero que existe",
+      "Reacciona vigorosamente con el agua",
+      "Se almacena en aceite mineral"
+    ]
+  },
+  {
+    "numeroAtomico": 4,
+    "simbolo": "Be",
+    "nombre": "Berilio",
+    "masaAtomica": 9.0122,
+    "familia": "Metales alcalinotérreos",
+    "categoria": "Metales alcalinotérreos",
+    "bloque": "s",
+    "grupo": 2,
+    "periodo": 2,
+    "estado": "Sólido",
+    "densidad": 1.85,
+    "puntoFusion": 1287,
+    "puntoEbullicion": 2470,
+    "electronegatividad": 1.57,
+    "configuracionElectronica": "[He] 2s2",
+    "electronesPorNivel": [
+      2,
+      2
+    ],
+    "valencias": [
+      2
+    ],
+    "estadosOxidacion": [
+      2
+    ],
+    "descubrimiento": "Louis Nicolas Vauquelin",
+    "añoDescubrimiento": 1798,
+    "descubridor": "Louis Nicolas Vauquelin",
+    "origenNombre": "Del griego 'beryllos' (berilo, una piedra preciosa)",
+    "usos": [
+      "Ventanas de rayos X",
+      "Componentes aeroespaciales",
+      "Aleaciones de cobre",
+      "Reflectores de neutrones"
+    ],
+    "datosCuriosos": [
+      "Es extremadamente tóxico al inhalarse",
+      "Tiene una de las temperaturas de fusión más altas entre los metales ligeros"
+    ]
+  },
+  {
+    "numeroAtomico": 5,
+    "simbolo": "B",
+    "nombre": "Boro",
+    "masaAtomica": 10.81,
+    "familia": "Metaloides",
+    "categoria": "Metaloides",
+    "bloque": "p",
+    "grupo": 13,
+    "periodo": 2,
+    "estado": "Sólido",
+    "densidad": 2.34,
+    "puntoFusion": 2076,
+    "puntoEbullicion": 3927,
+    "electronegatividad": 2.04,
+    "configuracionElectronica": "[He] 2s2 2p1",
+    "electronesPorNivel": [
+      2,
+      3
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Joseph Louis Gay-Lussac / Louis Jacques Thénard",
+    "añoDescubrimiento": 1808,
+    "descubridor": "Joseph Louis Gay-Lussac / Louis Jacques Thénard",
+    "origenNombre": "Del árabe 'buraq' / persa 'burah' (bórax)",
+    "usos": [
+      "Fibra de vidrio",
+      "Detergentes",
+      "Semiconductores",
+      "Blindaje contra radiación"
+    ],
+    "datosCuriosos": [
+      "Es esencial para el crecimiento de las plantas",
+      "El boro cristalino es casi tan duro como el diamante"
+    ]
+  },
+  {
+    "numeroAtomico": 6,
+    "simbolo": "C",
+    "nombre": "Carbono",
+    "masaAtomica": 12.011,
+    "familia": "No metales",
+    "categoria": "No metales",
+    "bloque": "p",
+    "grupo": 14,
+    "periodo": 2,
+    "estado": "Sólido",
+    "densidad": 2.267,
+    "puntoFusion": 3550,
+    "puntoEbullicion": 4027,
+    "electronegatividad": 2.55,
+    "configuracionElectronica": "[He] 2s2 2p2",
+    "electronesPorNivel": [
+      2,
+      4
+    ],
+    "valencias": [
+      4,
+      2,
+      -4
+    ],
+    "estadosOxidacion": [
+      4,
+      -4,
+      2
+    ],
+    "descubrimiento": "Conocido desde la antigüedad",
+    "añoDescubrimiento": "No aplica",
+    "descubridor": "Conocido desde la antigüedad",
+    "origenNombre": "Del latín 'carbo' (carbón)",
+    "usos": [
+      "Base de la química orgánica y la vida",
+      "Acero (aleación con hierro)",
+      "Grafito para lápices y lubricantes",
+      "Diamante para joyería e industria"
+    ],
+    "datosCuriosos": [
+      "Puede formar más compuestos que cualquier otro elemento",
+      "El diamante y el grafito son formas del mismo elemento",
+      "Es la base de toda la vida conocida"
+    ]
+  },
+  {
+    "numeroAtomico": 7,
+    "simbolo": "N",
+    "nombre": "Nitrógeno",
+    "masaAtomica": 14.007,
+    "familia": "No metales",
+    "categoria": "No metales",
+    "bloque": "p",
+    "grupo": 15,
+    "periodo": 2,
+    "estado": "Gas",
+    "densidad": 0.0012506,
+    "puntoFusion": -210.1,
+    "puntoEbullicion": -195.79,
+    "electronegatividad": 3.04,
+    "configuracionElectronica": "[He] 2s2 2p3",
+    "electronesPorNivel": [
+      2,
+      5
+    ],
+    "valencias": [
+      -3,
+      3,
+      5
+    ],
+    "estadosOxidacion": [
+      -3,
+      3,
+      5
+    ],
+    "descubrimiento": "Daniel Rutherford",
+    "añoDescubrimiento": 1772,
+    "descubridor": "Daniel Rutherford",
+    "origenNombre": "Del griego 'nitron' y 'genes' (formador de nitro/salitre)",
+    "usos": [
+      "Fertilizantes agrícolas",
+      "Atmósfera inerte para conservación",
+      "Producción de amoníaco",
+      "Congelación criogénica (nitrógeno líquido)"
+    ],
+    "datosCuriosos": [
+      "Constituye el 78% de la atmósfera terrestre",
+      "El nitrógeno líquido se usa para congelar muestras biológicas"
+    ]
+  },
+  {
+    "numeroAtomico": 8,
+    "simbolo": "O",
+    "nombre": "Oxígeno",
+    "masaAtomica": 15.999,
+    "familia": "No metales",
+    "categoria": "No metales",
+    "bloque": "p",
+    "grupo": 16,
+    "periodo": 2,
+    "estado": "Gas",
+    "densidad": 0.001429,
+    "puntoFusion": -218.79,
+    "puntoEbullicion": -182.96,
+    "electronegatividad": 3.44,
+    "configuracionElectronica": "[He] 2s2 2p4",
+    "electronesPorNivel": [
+      2,
+      6
+    ],
+    "valencias": [
+      -2
+    ],
+    "estadosOxidacion": [
+      -2,
+      -1
+    ],
+    "descubrimiento": "Carl Wilhelm Scheele / Joseph Priestley",
+    "añoDescubrimiento": 1774,
+    "descubridor": "Carl Wilhelm Scheele / Joseph Priestley",
+    "origenNombre": "Del griego 'oxys' y 'genes' (formador de ácidos)",
+    "usos": [
+      "Respiración de organismos aerobios",
+      "Soldadura y corte de metales",
+      "Uso medicinal (oxigenoterapia)",
+      "Combustión de cohetes"
+    ],
+    "datosCuriosos": [
+      "Constituye cerca del 21% de la atmósfera terrestre",
+      "Es esencial para la respiración celular",
+      "El ozono (O3) protege la Tierra de la radiación UV"
+    ]
+  },
+  {
+    "numeroAtomico": 9,
+    "simbolo": "F",
+    "nombre": "Flúor",
+    "masaAtomica": 18.998,
+    "familia": "Halógenos",
+    "categoria": "Halógenos",
+    "bloque": "p",
+    "grupo": 17,
+    "periodo": 2,
+    "estado": "Gas",
+    "densidad": 0.001696,
+    "puntoFusion": -219.67,
+    "puntoEbullicion": -188.11,
+    "electronegatividad": 3.98,
+    "configuracionElectronica": "[He] 2s2 2p5",
+    "electronesPorNivel": [
+      2,
+      7
+    ],
+    "valencias": [
+      -1
+    ],
+    "estadosOxidacion": [
+      -1
+    ],
+    "descubrimiento": "Henri Moissan",
+    "añoDescubrimiento": 1886,
+    "descubridor": "Henri Moissan",
+    "origenNombre": "Del latín 'fluere' (fluir)",
+    "usos": [
+      "Pastas dentales (prevención de caries)",
+      "Refrigerantes (fluorocarbonos)",
+      "Teflón y polímeros antiadherentes",
+      "Enriquecimiento de uranio"
+    ],
+    "datosCuriosos": [
+      "Es el elemento más electronegativo de la tabla periódica",
+      "Es extremadamente reactivo y corrosivo"
+    ]
+  },
+  {
+    "numeroAtomico": 10,
+    "simbolo": "Ne",
+    "nombre": "Neón",
+    "masaAtomica": 20.18,
+    "familia": "Gases nobles",
+    "categoria": "Gases nobles",
+    "bloque": "p",
+    "grupo": 18,
+    "periodo": 2,
+    "estado": "Gas",
+    "densidad": 0.0008999,
+    "puntoFusion": -248.59,
+    "puntoEbullicion": -246.05,
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[He] 2s2 2p6",
+    "electronesPorNivel": [
+      2,
+      8
+    ],
+    "valencias": [
+      0
+    ],
+    "estadosOxidacion": [
+      0
+    ],
+    "descubrimiento": "William Ramsay / Morris Travers",
+    "añoDescubrimiento": 1898,
+    "descubridor": "William Ramsay / Morris Travers",
+    "origenNombre": "Del griego 'neos' (nuevo)",
+    "usos": [
+      "Letreros luminosos (luz neón)",
+      "Láseres",
+      "Criogenia",
+      "Tubos de vacío"
+    ],
+    "datosCuriosos": [
+      "Su nombre significa 'nuevo' en griego",
+      "Es muy poco reactivo y raramente forma compuestos"
+    ]
+  },
+  {
+    "numeroAtomico": 11,
+    "simbolo": "Na",
+    "nombre": "Sodio",
+    "masaAtomica": 22.99,
+    "familia": "Metales alcalinos",
+    "categoria": "Metales alcalinos",
+    "bloque": "s",
+    "grupo": 1,
+    "periodo": 3,
+    "estado": "Sólido",
+    "densidad": 0.971,
+    "puntoFusion": 97.72,
+    "puntoEbullicion": 883,
+    "electronegatividad": 0.93,
+    "configuracionElectronica": "[Ne] 3s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      1
+    ],
+    "valencias": [
+      1
+    ],
+    "estadosOxidacion": [
+      1
+    ],
+    "descubrimiento": "Humphry Davy",
+    "añoDescubrimiento": 1807,
+    "descubridor": "Humphry Davy",
+    "origenNombre": "Del latín medieval 'sodanum'; símbolo del latín 'natrium'",
+    "usos": [
+      "Sal de mesa (cloruro de sodio)",
+      "Lámparas de vapor de sodio",
+      "Industria química",
+      "Regulación de fluidos en el cuerpo"
+    ],
+    "datosCuriosos": [
+      "Reacciona explosivamente con el agua",
+      "Es esencial para la transmisión de impulsos nerviosos"
+    ]
+  },
+  {
+    "numeroAtomico": 12,
+    "simbolo": "Mg",
+    "nombre": "Magnesio",
+    "masaAtomica": 24.305,
+    "familia": "Metales alcalinotérreos",
+    "categoria": "Metales alcalinotérreos",
+    "bloque": "s",
+    "grupo": 2,
+    "periodo": 3,
+    "estado": "Sólido",
+    "densidad": 1.738,
+    "puntoFusion": 650,
+    "puntoEbullicion": 1090,
+    "electronegatividad": 1.31,
+    "configuracionElectronica": "[Ne] 3s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      2
+    ],
+    "valencias": [
+      2
+    ],
+    "estadosOxidacion": [
+      2
+    ],
+    "descubrimiento": "Joseph Black",
+    "añoDescubrimiento": 1755,
+    "descubridor": "Joseph Black",
+    "origenNombre": "De Magnesia, una región de Grecia",
+    "usos": [
+      "Aleaciones ligeras (aeronáutica, automotriz)",
+      "Suplementos nutricionales",
+      "Fuegos artificiales y bengalas",
+      "Fotosíntesis (parte de la clorofila)"
+    ],
+    "datosCuriosos": [
+      "Es un componente esencial de la clorofila en las plantas",
+      "Arde con una luz blanca muy brillante"
+    ]
+  },
+  {
+    "numeroAtomico": 13,
+    "simbolo": "Al",
+    "nombre": "Aluminio",
+    "masaAtomica": 26.982,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 13,
+    "periodo": 3,
+    "estado": "Sólido",
+    "densidad": 2.7,
+    "puntoFusion": 660.32,
+    "puntoEbullicion": 2519,
+    "electronegatividad": 1.61,
+    "configuracionElectronica": "[Ne] 3s2 3p1",
+    "electronesPorNivel": [
+      2,
+      8,
+      3
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Hans Christian Ørsted",
+    "añoDescubrimiento": 1825,
+    "descubridor": "Hans Christian Ørsted",
+    "origenNombre": "Del latín 'alumen' (alumbre)",
+    "usos": [
+      "Envases y latas",
+      "Construcción y aeronáutica",
+      "Cables eléctricos",
+      "Utensilios de cocina"
+    ],
+    "datosCuriosos": [
+      "Es el metal más abundante en la corteza terrestre",
+      "Es completamente reciclable sin perder calidad"
+    ]
+  },
+  {
+    "numeroAtomico": 14,
+    "simbolo": "Si",
+    "nombre": "Silicio",
+    "masaAtomica": 28.085,
+    "familia": "Metaloides",
+    "categoria": "Metaloides",
+    "bloque": "p",
+    "grupo": 14,
+    "periodo": 3,
+    "estado": "Sólido",
+    "densidad": 2.3296,
+    "puntoFusion": 1414,
+    "puntoEbullicion": 3265,
+    "electronegatividad": 1.9,
+    "configuracionElectronica": "[Ne] 3s2 3p2",
+    "electronesPorNivel": [
+      2,
+      8,
+      4
+    ],
+    "valencias": [
+      4,
+      -4
+    ],
+    "estadosOxidacion": [
+      4,
+      -4
+    ],
+    "descubrimiento": "Jöns Jacob Berzelius",
+    "añoDescubrimiento": 1824,
+    "descubridor": "Jöns Jacob Berzelius",
+    "origenNombre": "Del latín 'silex' (sílice, pedernal)",
+    "usos": [
+      "Semiconductores y chips electrónicos",
+      "Paneles solares",
+      "Vidrio y cerámica",
+      "Siliconas"
+    ],
+    "datosCuriosos": [
+      "Es la base de toda la industria de los semiconductores",
+      "Es el segundo elemento más abundante en la corteza terrestre"
+    ]
+  },
+  {
+    "numeroAtomico": 15,
+    "simbolo": "P",
+    "nombre": "Fósforo",
+    "masaAtomica": 30.974,
+    "familia": "No metales",
+    "categoria": "No metales",
+    "bloque": "p",
+    "grupo": 15,
+    "periodo": 3,
+    "estado": "Sólido",
+    "densidad": 1.82,
+    "puntoFusion": 44.15,
+    "puntoEbullicion": 280.5,
+    "electronegatividad": 2.19,
+    "configuracionElectronica": "[Ne] 3s2 3p3",
+    "electronesPorNivel": [
+      2,
+      8,
+      5
+    ],
+    "valencias": [
+      -3,
+      3,
+      5
+    ],
+    "estadosOxidacion": [
+      -3,
+      3,
+      5
+    ],
+    "descubrimiento": "Hennig Brand",
+    "añoDescubrimiento": 1669,
+    "descubridor": "Hennig Brand",
+    "origenNombre": "Del griego 'phosphoros' (portador de luz)",
+    "usos": [
+      "Fertilizantes",
+      "Fósforos (cerillas)",
+      "ADN y ATP en organismos vivos",
+      "Aditivos alimentarios"
+    ],
+    "datosCuriosos": [
+      "El fósforo blanco brilla en la oscuridad (fosforescencia)",
+      "Es esencial para el ADN, ARN y ATP"
+    ]
+  },
+  {
+    "numeroAtomico": 16,
+    "simbolo": "S",
+    "nombre": "Azufre",
+    "masaAtomica": 32.06,
+    "familia": "No metales",
+    "categoria": "No metales",
+    "bloque": "p",
+    "grupo": 16,
+    "periodo": 3,
+    "estado": "Sólido",
+    "densidad": 2.067,
+    "puntoFusion": 115.21,
+    "puntoEbullicion": 444.6,
+    "electronegatividad": 2.58,
+    "configuracionElectronica": "[Ne] 3s2 3p4",
+    "electronesPorNivel": [
+      2,
+      8,
+      6
+    ],
+    "valencias": [
+      -2,
+      4,
+      6
+    ],
+    "estadosOxidacion": [
+      -2,
+      4,
+      6
+    ],
+    "descubrimiento": "Conocido desde la antigüedad",
+    "añoDescubrimiento": "No aplica",
+    "descubridor": "Conocido desde la antigüedad",
+    "origenNombre": "Del latín 'sulphurium'",
+    "usos": [
+      "Producción de ácido sulfúrico",
+      "Vulcanización del caucho",
+      "Fertilizantes",
+      "Pólvora y fungicidas"
+    ],
+    "datosCuriosos": [
+      "Se le conoce como 'azufre' desde la antigüedad bíblica",
+      "Tiene un característico olor a huevo podrido en muchos compuestos"
+    ]
+  },
+  {
+    "numeroAtomico": 17,
+    "simbolo": "Cl",
+    "nombre": "Cloro",
+    "masaAtomica": 35.45,
+    "familia": "Halógenos",
+    "categoria": "Halógenos",
+    "bloque": "p",
+    "grupo": 17,
+    "periodo": 3,
+    "estado": "Gas",
+    "densidad": 0.003214,
+    "puntoFusion": -101.5,
+    "puntoEbullicion": -34.04,
+    "electronegatividad": 3.16,
+    "configuracionElectronica": "[Ne] 3s2 3p5",
+    "electronesPorNivel": [
+      2,
+      8,
+      7
+    ],
+    "valencias": [
+      -1,
+      1,
+      3,
+      5,
+      7
+    ],
+    "estadosOxidacion": [
+      -1,
+      1,
+      3,
+      5,
+      7
+    ],
+    "descubrimiento": "Carl Wilhelm Scheele",
+    "añoDescubrimiento": 1774,
+    "descubridor": "Carl Wilhelm Scheele",
+    "origenNombre": "Del griego 'chloros' (verde amarillento)",
+    "usos": [
+      "Desinfección de agua potable y piscinas",
+      "Producción de PVC",
+      "Blanqueadores",
+      "Industria química"
+    ],
+    "datosCuriosos": [
+      "Fue utilizado como arma química en la Primera Guerra Mundial",
+      "Es un gas tóxico de color verde amarillento"
+    ]
+  },
+  {
+    "numeroAtomico": 18,
+    "simbolo": "Ar",
+    "nombre": "Argón",
+    "masaAtomica": 39.948,
+    "familia": "Gases nobles",
+    "categoria": "Gases nobles",
+    "bloque": "p",
+    "grupo": 18,
+    "periodo": 3,
+    "estado": "Gas",
+    "densidad": 0.0017837,
+    "puntoFusion": -189.34,
+    "puntoEbullicion": -185.85,
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Ne] 3s2 3p6",
+    "electronesPorNivel": [
+      2,
+      8,
+      8
+    ],
+    "valencias": [
+      0
+    ],
+    "estadosOxidacion": [
+      0
+    ],
+    "descubrimiento": "Lord Rayleigh / William Ramsay",
+    "añoDescubrimiento": 1894,
+    "descubridor": "Lord Rayleigh / William Ramsay",
+    "origenNombre": "Del griego 'argos' (inactivo)",
+    "usos": [
+      "Atmósfera inerte para soldadura",
+      "Bombillas incandescentes",
+      "Conservación de documentos",
+      "Ventanas de doble vidrio"
+    ],
+    "datosCuriosos": [
+      "Es el gas noble más abundante en la atmósfera terrestre",
+      "Su nombre significa 'perezoso' o 'inactivo' en griego"
+    ]
+  },
+  {
+    "numeroAtomico": 19,
+    "simbolo": "K",
+    "nombre": "Potasio",
+    "masaAtomica": 39.098,
+    "familia": "Metales alcalinos",
+    "categoria": "Metales alcalinos",
+    "bloque": "s",
+    "grupo": 1,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 0.862,
+    "puntoFusion": 63.5,
+    "puntoEbullicion": 759,
+    "electronegatividad": 0.82,
+    "configuracionElectronica": "[Ar] 4s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      8,
+      1
+    ],
+    "valencias": [
+      1
+    ],
+    "estadosOxidacion": [
+      1
+    ],
+    "descubrimiento": "Humphry Davy",
+    "añoDescubrimiento": 1807,
+    "descubridor": "Humphry Davy",
+    "origenNombre": "Del inglés 'potash'; símbolo del latín 'kalium'",
+    "usos": [
+      "Fertilizantes",
+      "Funcionamiento nervioso y muscular",
+      "Vidrio y jabones",
+      "Sales dietéticas"
+    ],
+    "datosCuriosos": [
+      "Es esencial para el funcionamiento del corazón y los músculos",
+      "Reacciona violentamente con el agua"
+    ]
+  },
+  {
+    "numeroAtomico": 20,
+    "simbolo": "Ca",
+    "nombre": "Calcio",
+    "masaAtomica": 40.078,
+    "familia": "Metales alcalinotérreos",
+    "categoria": "Metales alcalinotérreos",
+    "bloque": "s",
+    "grupo": 2,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 1.54,
+    "puntoFusion": 842,
+    "puntoEbullicion": 1484,
+    "electronegatividad": 1.0,
+    "configuracionElectronica": "[Ar] 4s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      8,
+      2
+    ],
+    "valencias": [
+      2
+    ],
+    "estadosOxidacion": [
+      2
+    ],
+    "descubrimiento": "Humphry Davy",
+    "añoDescubrimiento": 1808,
+    "descubridor": "Humphry Davy",
+    "origenNombre": "Del latín 'calx' (cal)",
+    "usos": [
+      "Huesos y dientes",
+      "Cemento y construcción",
+      "Suplementos nutricionales",
+      "Producción de metales"
+    ],
+    "datosCuriosos": [
+      "Es el mineral más abundante en el cuerpo humano",
+      "El 99% del calcio del cuerpo está en huesos y dientes"
+    ]
+  },
+  {
+    "numeroAtomico": 21,
+    "simbolo": "Sc",
+    "nombre": "Escandio",
+    "masaAtomica": 44.956,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 3,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 2.985,
+    "puntoFusion": 1541,
+    "puntoEbullicion": 2836,
+    "electronegatividad": 1.36,
+    "configuracionElectronica": "[Ar] 3d1 4s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      9,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Lars Fredrik Nilson",
+    "añoDescubrimiento": 1879,
+    "descubridor": "Lars Fredrik Nilson",
+    "origenNombre": "De Scandia (Escandinavia)",
+    "usos": [
+      "Aleaciones de aluminio para aeroespacial",
+      "Lámparas de haluro metálico",
+      "Equipos deportivos de alto rendimiento"
+    ],
+    "datosCuriosos": [
+      "Fue predicho por Mendeléyev antes de ser descubierto (lo llamó eka-boro)"
+    ]
+  },
+  {
+    "numeroAtomico": 22,
+    "simbolo": "Ti",
+    "nombre": "Titanio",
+    "masaAtomica": 47.867,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 4,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 4.506,
+    "puntoFusion": 1668,
+    "puntoEbullicion": 3287,
+    "electronegatividad": 1.54,
+    "configuracionElectronica": "[Ar] 3d2 4s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      10,
+      2
+    ],
+    "valencias": [
+      2,
+      3,
+      4
+    ],
+    "estadosOxidacion": [
+      4,
+      3,
+      2
+    ],
+    "descubrimiento": "William Gregor",
+    "añoDescubrimiento": 1791,
+    "descubridor": "William Gregor",
+    "origenNombre": "De los Titanes de la mitología griega",
+    "usos": [
+      "Implantes médicos",
+      "Aeronáutica y aeroespacial",
+      "Pinturas (dióxido de titanio)",
+      "Equipos deportivos"
+    ],
+    "datosCuriosos": [
+      "Es tan resistente como el acero pero mucho más ligero",
+      "Es biocompatible, por lo que se usa en implantes"
+    ]
+  },
+  {
+    "numeroAtomico": 23,
+    "simbolo": "V",
+    "nombre": "Vanadio",
+    "masaAtomica": 50.942,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 5,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 6.11,
+    "puntoFusion": 1910,
+    "puntoEbullicion": 3407,
+    "electronegatividad": 1.63,
+    "configuracionElectronica": "[Ar] 3d3 4s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      11,
+      2
+    ],
+    "valencias": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "estadosOxidacion": [
+      5,
+      4,
+      3,
+      2
+    ],
+    "descubrimiento": "Andrés Manuel del Río / Nils Gabriel Sefström",
+    "añoDescubrimiento": 1801,
+    "descubridor": "Andrés Manuel del Río / Nils Gabriel Sefström",
+    "origenNombre": "De Vanadis, diosa nórdica",
+    "usos": [
+      "Aleaciones de acero de alta resistencia",
+      "Baterías de flujo redox",
+      "Catalizadores industriales"
+    ],
+    "datosCuriosos": [
+      "Fue descubierto por el mexicano Andrés Manuel del Río pero no se le reconoció en su momento"
+    ]
+  },
+  {
+    "numeroAtomico": 24,
+    "simbolo": "Cr",
+    "nombre": "Cromo",
+    "masaAtomica": 51.996,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 6,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 7.15,
+    "puntoFusion": 1907,
+    "puntoEbullicion": 2671,
+    "electronegatividad": 1.66,
+    "configuracionElectronica": "[Ar] 3d5 4s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      13,
+      1
+    ],
+    "valencias": [
+      2,
+      3,
+      6
+    ],
+    "estadosOxidacion": [
+      6,
+      3,
+      2
+    ],
+    "descubrimiento": "Louis Nicolas Vauquelin",
+    "añoDescubrimiento": 1797,
+    "descubridor": "Louis Nicolas Vauquelin",
+    "origenNombre": "Del griego 'chroma' (color)",
+    "usos": [
+      "Acero inoxidable",
+      "Cromado decorativo y protector",
+      "Pigmentos y colorantes",
+      "Curtido de cuero"
+    ],
+    "datosCuriosos": [
+      "Sus compuestos presentan colores muy vivos, de ahí su nombre",
+      "Es lo que da al acero inoxidable su resistencia a la corrosión"
+    ]
+  },
+  {
+    "numeroAtomico": 25,
+    "simbolo": "Mn",
+    "nombre": "Manganeso",
+    "masaAtomica": 54.938,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 7,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 7.44,
+    "puntoFusion": 1246,
+    "puntoEbullicion": 2061,
+    "electronegatividad": 1.55,
+    "configuracionElectronica": "[Ar] 3d5 4s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      13,
+      2
+    ],
+    "valencias": [
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "estadosOxidacion": [
+      7,
+      4,
+      2
+    ],
+    "descubrimiento": "Johan Gottlieb Gahn",
+    "añoDescubrimiento": 1774,
+    "descubridor": "Johan Gottlieb Gahn",
+    "origenNombre": "Del latín 'magnes' (magnesia)",
+    "usos": [
+      "Producción de acero",
+      "Baterías alcalinas",
+      "Fertilizantes",
+      "Aleaciones de aluminio"
+    ],
+    "datosCuriosos": [
+      "Es esencial para el metabolismo humano en cantidades pequeñas",
+      "La mayor parte del manganeso producido se usa en la industria del acero"
+    ]
+  },
+  {
+    "numeroAtomico": 26,
+    "simbolo": "Fe",
+    "nombre": "Hierro",
+    "masaAtomica": 55.845,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 8,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 7.874,
+    "puntoFusion": 1538,
+    "puntoEbullicion": 2862,
+    "electronegatividad": 1.83,
+    "configuracionElectronica": "[Ar] 3d6 4s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      14,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      3,
+      2
+    ],
+    "descubrimiento": "Conocido desde la antigüedad",
+    "añoDescubrimiento": "No aplica",
+    "descubridor": "Conocido desde la antigüedad",
+    "origenNombre": "Del latín 'ferrum'",
+    "usos": [
+      "Construcción y estructuras metálicas",
+      "Fabricación de acero",
+      "Transporte de oxígeno en la sangre (hemoglobina)",
+      "Herramientas y maquinaria"
+    ],
+    "datosCuriosos": [
+      "Es el metal más utilizado en el mundo",
+      "El núcleo de la Tierra está compuesto principalmente de hierro"
+    ]
+  },
+  {
+    "numeroAtomico": 27,
+    "simbolo": "Co",
+    "nombre": "Cobalto",
+    "masaAtomica": 58.933,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 9,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 8.9,
+    "puntoFusion": 1495,
+    "puntoEbullicion": 2927,
+    "electronegatividad": 1.88,
+    "configuracionElectronica": "[Ar] 3d7 4s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      15,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      3,
+      2
+    ],
+    "descubrimiento": "Georg Brandt",
+    "añoDescubrimiento": 1735,
+    "descubridor": "Georg Brandt",
+    "origenNombre": "Del alemán 'kobold' (duende de las minas)",
+    "usos": [
+      "Baterías de iones de litio",
+      "Aleaciones resistentes a altas temperaturas",
+      "Pigmentos (azul cobalto)",
+      "Imanes"
+    ],
+    "datosCuriosos": [
+      "Es esencial para la vitamina B12",
+      "Su nombre viene de espíritus mineros que dificultaban su extracción"
+    ]
+  },
+  {
+    "numeroAtomico": 28,
+    "simbolo": "Ni",
+    "nombre": "Níquel",
+    "masaAtomica": 58.693,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 10,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 8.908,
+    "puntoFusion": 1455,
+    "puntoEbullicion": 2913,
+    "electronegatividad": 1.91,
+    "configuracionElectronica": "[Ar] 3d8 4s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      16,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      2,
+      3
+    ],
+    "descubrimiento": "Axel Fredrik Cronstedt",
+    "añoDescubrimiento": 1751,
+    "descubridor": "Axel Fredrik Cronstedt",
+    "origenNombre": "Del alemán 'kupfernickel' (falso cobre)",
+    "usos": [
+      "Acero inoxidable",
+      "Monedas",
+      "Baterías recargables",
+      "Catalizadores químicos"
+    ],
+    "datosCuriosos": [
+      "Es magnético a temperatura ambiente",
+      "Se usa en muchas monedas de circulación por su durabilidad"
+    ]
+  },
+  {
+    "numeroAtomico": 29,
+    "simbolo": "Cu",
+    "nombre": "Cobre",
+    "masaAtomica": 63.546,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 11,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 8.96,
+    "puntoFusion": 1084.62,
+    "puntoEbullicion": 2562,
+    "electronegatividad": 1.9,
+    "configuracionElectronica": "[Ar] 3d10 4s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      1
+    ],
+    "valencias": [
+      1,
+      2
+    ],
+    "estadosOxidacion": [
+      2,
+      1
+    ],
+    "descubrimiento": "Conocido desde la antigüedad",
+    "añoDescubrimiento": "No aplica",
+    "descubridor": "Conocido desde la antigüedad",
+    "origenNombre": "Del latín 'cuprum' (Chipre)",
+    "usos": [
+      "Cableado eléctrico",
+      "Fontanería y tuberías",
+      "Aleaciones (bronce, latón)",
+      "Monedas"
+    ],
+    "datosCuriosos": [
+      "Es uno de los pocos metales con color natural distinto al gris o plateado",
+      "Excelente conductor de electricidad y calor"
+    ]
+  },
+  {
+    "numeroAtomico": 30,
+    "simbolo": "Zn",
+    "nombre": "Zinc",
+    "masaAtomica": 65.38,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 12,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 7.14,
+    "puntoFusion": 419.53,
+    "puntoEbullicion": 907,
+    "electronegatividad": 1.65,
+    "configuracionElectronica": "[Ar] 3d10 4s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      2
+    ],
+    "valencias": [
+      2
+    ],
+    "estadosOxidacion": [
+      2
+    ],
+    "descubrimiento": "Conocido desde la antigüedad (Andreas Sigismund Marggraf lo aisló)",
+    "añoDescubrimiento": 1746,
+    "descubridor": "Conocido desde la antigüedad (Andreas Sigismund Marggraf lo aisló)",
+    "origenNombre": "Del alemán 'zink'",
+    "usos": [
+      "Galvanizado del acero (anticorrosión)",
+      "Aleaciones (latón)",
+      "Suplementos nutricionales",
+      "Pilas"
+    ],
+    "datosCuriosos": [
+      "Es esencial para el sistema inmunológico humano",
+      "Se usa para proteger el hierro y el acero de la oxidación"
+    ]
+  },
+  {
+    "numeroAtomico": 31,
+    "simbolo": "Ga",
+    "nombre": "Galio",
+    "masaAtomica": 69.723,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 13,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 5.91,
+    "puntoFusion": 29.76,
+    "puntoEbullicion": 2204,
+    "electronegatividad": 1.81,
+    "configuracionElectronica": "[Ar] 3d10 4s2 4p1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      3
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Paul-Émile Lecoq de Boisbaudran",
+    "añoDescubrimiento": 1875,
+    "descubridor": "Paul-Émile Lecoq de Boisbaudran",
+    "origenNombre": "De 'Gallia' (Francia, en latín)",
+    "usos": [
+      "Semiconductores (arseniuro de galio)",
+      "LEDs",
+      "Termómetros de alta temperatura",
+      "Aleaciones de bajo punto de fusión"
+    ],
+    "datosCuriosos": [
+      "Se funde en la palma de la mano (funde a casi la temperatura corporal)",
+      "Fue predicho por Mendeléyev como 'eka-aluminio'"
+    ]
+  },
+  {
+    "numeroAtomico": 32,
+    "simbolo": "Ge",
+    "nombre": "Germanio",
+    "masaAtomica": 72.63,
+    "familia": "Metaloides",
+    "categoria": "Metaloides",
+    "bloque": "p",
+    "grupo": 14,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 5.323,
+    "puntoFusion": 938.25,
+    "puntoEbullicion": 2833,
+    "electronegatividad": 2.01,
+    "configuracionElectronica": "[Ar] 3d10 4s2 4p2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      4
+    ],
+    "valencias": [
+      2,
+      4
+    ],
+    "estadosOxidacion": [
+      4
+    ],
+    "descubrimiento": "Clemens Winkler",
+    "añoDescubrimiento": 1886,
+    "descubridor": "Clemens Winkler",
+    "origenNombre": "De Germania (Alemania, en latín)",
+    "usos": [
+      "Fibra óptica",
+      "Semiconductores",
+      "Lentes de infrarrojos",
+      "Catalizadores"
+    ],
+    "datosCuriosos": [
+      "Fue otro elemento predicho por Mendeléyev ('eka-silicio')",
+      "Es transparente a la luz infrarroja"
+    ]
+  },
+  {
+    "numeroAtomico": 33,
+    "simbolo": "As",
+    "nombre": "Arsénico",
+    "masaAtomica": 74.922,
+    "familia": "Metaloides",
+    "categoria": "Metaloides",
+    "bloque": "p",
+    "grupo": 15,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 5.776,
+    "puntoFusion": 817,
+    "puntoEbullicion": 614,
+    "electronegatividad": 2.18,
+    "configuracionElectronica": "[Ar] 3d10 4s2 4p3",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      5
+    ],
+    "valencias": [
+      -3,
+      3,
+      5
+    ],
+    "estadosOxidacion": [
+      5,
+      3,
+      -3
+    ],
+    "descubrimiento": "Conocido desde la antigüedad (Alberto Magno, atribuido)",
+    "añoDescubrimiento": 1250,
+    "descubridor": "Conocido desde la antigüedad (Alberto Magno, atribuido)",
+    "origenNombre": "Del griego 'arsenikon' (oropimente amarillo)",
+    "usos": [
+      "Semiconductores (arseniuro de galio)",
+      "Aleaciones",
+      "Antiguamente en pesticidas (uso restringido hoy)",
+      "Conservantes de madera"
+    ],
+    "datosCuriosos": [
+      "Es altamente tóxico en muchas de sus formas",
+      "Ha sido históricamente usado como veneno"
+    ]
+  },
+  {
+    "numeroAtomico": 34,
+    "simbolo": "Se",
+    "nombre": "Selenio",
+    "masaAtomica": 78.971,
+    "familia": "No metales",
+    "categoria": "No metales",
+    "bloque": "p",
+    "grupo": 16,
+    "periodo": 4,
+    "estado": "Sólido",
+    "densidad": 4.809,
+    "puntoFusion": 221,
+    "puntoEbullicion": 685,
+    "electronegatividad": 2.55,
+    "configuracionElectronica": "[Ar] 3d10 4s2 4p4",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      6
+    ],
+    "valencias": [
+      -2,
+      4,
+      6
+    ],
+    "estadosOxidacion": [
+      6,
+      4,
+      -2
+    ],
+    "descubrimiento": "Jöns Jacob Berzelius",
+    "añoDescubrimiento": 1817,
+    "descubridor": "Jöns Jacob Berzelius",
+    "origenNombre": "Del griego 'selene' (luna)",
+    "usos": [
+      "Células fotovoltaicas y fotocopiadoras",
+      "Suplementos nutricionales antioxidantes",
+      "Vidrio (para quitar el color verde)",
+      "Aleaciones metalúrgicas"
+    ],
+    "datosCuriosos": [
+      "Es un oligoelemento esencial en pequeñas cantidades",
+      "Su conductividad eléctrica cambia con la luz"
+    ]
+  },
+  {
+    "numeroAtomico": 35,
+    "simbolo": "Br",
+    "nombre": "Bromo",
+    "masaAtomica": 79.904,
+    "familia": "Halógenos",
+    "categoria": "Halógenos",
+    "bloque": "p",
+    "grupo": 17,
+    "periodo": 4,
+    "estado": "Líquido",
+    "densidad": 3.1028,
+    "puntoFusion": -7.2,
+    "puntoEbullicion": 58.8,
+    "electronegatividad": 2.96,
+    "configuracionElectronica": "[Ar] 3d10 4s2 4p5",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      7
+    ],
+    "valencias": [
+      -1,
+      1,
+      3,
+      5
+    ],
+    "estadosOxidacion": [
+      -1,
+      1,
+      3,
+      5
+    ],
+    "descubrimiento": "Antoine Balard",
+    "añoDescubrimiento": 1826,
+    "descubridor": "Antoine Balard",
+    "origenNombre": "Del griego 'bromos' (hedor)",
+    "usos": [
+      "Retardantes de llama",
+      "Purificación de agua",
+      "Fotografía (haluros de plata)",
+      "Fumigantes"
+    ],
+    "datosCuriosos": [
+      "Es uno de los dos únicos elementos líquidos a temperatura ambiente",
+      "Tiene un olor fuerte y desagradable"
+    ]
+  },
+  {
+    "numeroAtomico": 36,
+    "simbolo": "Kr",
+    "nombre": "Kriptón",
+    "masaAtomica": 83.798,
+    "familia": "Gases nobles",
+    "categoria": "Gases nobles",
+    "bloque": "p",
+    "grupo": 18,
+    "periodo": 4,
+    "estado": "Gas",
+    "densidad": 0.003733,
+    "puntoFusion": -157.36,
+    "puntoEbullicion": -153.22,
+    "electronegatividad": 3.0,
+    "configuracionElectronica": "[Ar] 3d10 4s2 4p6",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      8
+    ],
+    "valencias": [
+      0,
+      2
+    ],
+    "estadosOxidacion": [
+      0,
+      2
+    ],
+    "descubrimiento": "William Ramsay / Morris Travers",
+    "añoDescubrimiento": 1898,
+    "descubridor": "William Ramsay / Morris Travers",
+    "origenNombre": "Del griego 'kryptos' (oculto)",
+    "usos": [
+      "Iluminación de alta intensidad",
+      "Láseres de excímeros",
+      "Aislamiento de ventanas",
+      "Fotografía flash"
+    ],
+    "datosCuriosos": [
+      "Su nombre significa 'el oculto' en griego",
+      "Se usa en algunas lámparas de bajo consumo"
+    ]
+  },
+  {
+    "numeroAtomico": 37,
+    "simbolo": "Rb",
+    "nombre": "Rubidio",
+    "masaAtomica": 85.468,
+    "familia": "Metales alcalinos",
+    "categoria": "Metales alcalinos",
+    "bloque": "s",
+    "grupo": 1,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 1.532,
+    "puntoFusion": 39.31,
+    "puntoEbullicion": 688,
+    "electronegatividad": 0.82,
+    "configuracionElectronica": "[Kr] 5s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      8,
+      1
+    ],
+    "valencias": [
+      1
+    ],
+    "estadosOxidacion": [
+      1
+    ],
+    "descubrimiento": "Robert Bunsen / Gustav Kirchhoff",
+    "añoDescubrimiento": 1861,
+    "descubridor": "Robert Bunsen / Gustav Kirchhoff",
+    "origenNombre": "Del latín 'rubidus' (rojo intenso)",
+    "usos": [
+      "Relojes atómicos",
+      "Investigación en física cuántica",
+      "Fuegos artificiales",
+      "Fibra óptica"
+    ],
+    "datosCuriosos": [
+      "Fue descubierto mediante espectroscopía por su línea roja característica",
+      "Es muy reactivo con el aire y el agua"
+    ]
+  },
+  {
+    "numeroAtomico": 38,
+    "simbolo": "Sr",
+    "nombre": "Estroncio",
+    "masaAtomica": 87.62,
+    "familia": "Metales alcalinotérreos",
+    "categoria": "Metales alcalinotérreos",
+    "bloque": "s",
+    "grupo": 2,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 2.64,
+    "puntoFusion": 777,
+    "puntoEbullicion": 1382,
+    "electronegatividad": 0.95,
+    "configuracionElectronica": "[Kr] 5s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      8,
+      2
+    ],
+    "valencias": [
+      2
+    ],
+    "estadosOxidacion": [
+      2
+    ],
+    "descubrimiento": "William Cruickshank",
+    "añoDescubrimiento": 1787,
+    "descubridor": "William Cruickshank",
+    "origenNombre": "De Strontian, un pueblo escocés",
+    "usos": [
+      "Fuegos artificiales (color rojo)",
+      "Tubos de televisión antiguos",
+      "Producción de imanes de ferrita",
+      "Investigación médica"
+    ],
+    "datosCuriosos": [
+      "Produce el color rojo brillante en fuegos artificiales",
+      "Su isótopo radiactivo se usa en tratamientos médicos"
+    ]
+  },
+  {
+    "numeroAtomico": 39,
+    "simbolo": "Y",
+    "nombre": "Itrio",
+    "masaAtomica": 88.906,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 3,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 4.472,
+    "puntoFusion": 1526,
+    "puntoEbullicion": 3345,
+    "electronegatividad": 1.22,
+    "configuracionElectronica": "[Kr] 4d1 5s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      9,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Johan Gadolin",
+    "añoDescubrimiento": 1794,
+    "descubridor": "Johan Gadolin",
+    "origenNombre": "De Ytterby, un pueblo sueco",
+    "usos": [
+      "Superconductores",
+      "Láseres",
+      "Pantallas y fósforos de color rojo",
+      "Aleaciones de alta resistencia"
+    ],
+    "datosCuriosos": [
+      "Da nombre, junto con otros tres elementos, al pueblo sueco de Ytterby"
+    ]
+  },
+  {
+    "numeroAtomico": 40,
+    "simbolo": "Zr",
+    "nombre": "Zirconio",
+    "masaAtomica": 91.224,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 4,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 6.52,
+    "puntoFusion": 1855,
+    "puntoEbullicion": 4409,
+    "electronegatividad": 1.33,
+    "configuracionElectronica": "[Kr] 4d2 5s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      10,
+      2
+    ],
+    "valencias": [
+      4
+    ],
+    "estadosOxidacion": [
+      4
+    ],
+    "descubrimiento": "Martin Heinrich Klaproth",
+    "añoDescubrimiento": 1789,
+    "descubridor": "Martin Heinrich Klaproth",
+    "origenNombre": "Del árabe 'zargun' (color dorado)",
+    "usos": [
+      "Revestimiento de reactores nucleares",
+      "Cerámicas avanzadas",
+      "Joyería (circonita)",
+      "Implantes dentales"
+    ],
+    "datosCuriosos": [
+      "Es muy resistente a la corrosión",
+      "Se usa en reactores nucleares por su baja absorción de neutrones"
+    ]
+  },
+  {
+    "numeroAtomico": 41,
+    "simbolo": "Nb",
+    "nombre": "Niobio",
+    "masaAtomica": 92.906,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 5,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 8.57,
+    "puntoFusion": 2477,
+    "puntoEbullicion": 4744,
+    "electronegatividad": 1.6,
+    "configuracionElectronica": "[Kr] 4d4 5s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      12,
+      1
+    ],
+    "valencias": [
+      3,
+      5
+    ],
+    "estadosOxidacion": [
+      5,
+      3
+    ],
+    "descubrimiento": "Charles Hatchett",
+    "añoDescubrimiento": 1801,
+    "descubridor": "Charles Hatchett",
+    "origenNombre": "De Níobe, hija de Tántalo en la mitología griega",
+    "usos": [
+      "Superconductores",
+      "Aleaciones de acero de alta resistencia",
+      "Joyería hipoalergénica",
+      "Aeroespacial"
+    ],
+    "datosCuriosos": [
+      "Se usa en los imanes superconductores del LHC (acelerador de partículas)"
+    ]
+  },
+  {
+    "numeroAtomico": 42,
+    "simbolo": "Mo",
+    "nombre": "Molibdeno",
+    "masaAtomica": 95.95,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 6,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 10.28,
+    "puntoFusion": 2623,
+    "puntoEbullicion": 4639,
+    "electronegatividad": 2.16,
+    "configuracionElectronica": "[Kr] 4d5 5s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      13,
+      1
+    ],
+    "valencias": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "estadosOxidacion": [
+      6,
+      4,
+      3
+    ],
+    "descubrimiento": "Carl Wilhelm Scheele",
+    "añoDescubrimiento": 1778,
+    "descubridor": "Carl Wilhelm Scheele",
+    "origenNombre": "Del griego 'molybdos' (plomo)",
+    "usos": [
+      "Aleaciones de acero de alta resistencia",
+      "Catalizadores industriales",
+      "Filamentos eléctricos",
+      "Fertilizantes (oligoelemento)"
+    ],
+    "datosCuriosos": [
+      "Tiene uno de los puntos de fusión más altos entre los metales",
+      "Es esencial para varias enzimas en organismos vivos"
+    ]
+  },
+  {
+    "numeroAtomico": 43,
+    "simbolo": "Tc",
+    "nombre": "Tecnecio",
+    "masaAtomica": 97.0,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 7,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 11.0,
+    "puntoFusion": 2157,
+    "puntoEbullicion": 4265,
+    "electronegatividad": 1.9,
+    "configuracionElectronica": "[Kr] 4d5 5s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      13,
+      2
+    ],
+    "valencias": [
+      4,
+      6,
+      7
+    ],
+    "estadosOxidacion": [
+      7
+    ],
+    "descubrimiento": "Carlo Perrier / Emilio Segrè",
+    "añoDescubrimiento": 1937,
+    "descubridor": "Carlo Perrier / Emilio Segrè",
+    "origenNombre": "Del griego 'technetos' (artificial)",
+    "usos": [
+      "Medicina nuclear (diagnóstico por imágenes)",
+      "Investigación científica"
+    ],
+    "datosCuriosos": [
+      "Fue el primer elemento producido artificialmente",
+      "No tiene isótopos estables"
+    ]
+  },
+  {
+    "numeroAtomico": 44,
+    "simbolo": "Ru",
+    "nombre": "Rutenio",
+    "masaAtomica": 101.07,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 8,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 12.45,
+    "puntoFusion": 2334,
+    "puntoEbullicion": 4150,
+    "electronegatividad": 2.2,
+    "configuracionElectronica": "[Kr] 4d7 5s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      15,
+      1
+    ],
+    "valencias": [
+      2,
+      3,
+      4,
+      6,
+      8
+    ],
+    "estadosOxidacion": [
+      4,
+      3
+    ],
+    "descubrimiento": "Karl Ernst Claus",
+    "añoDescubrimiento": 1844,
+    "descubridor": "Karl Ernst Claus",
+    "origenNombre": "De Ruthenia (nombre latino de Rusia)",
+    "usos": [
+      "Contactos eléctricos",
+      "Catalizadores químicos",
+      "Aleaciones con platino para joyería",
+      "Celdas solares sensibilizadas por colorante"
+    ],
+    "datosCuriosos": [
+      "Es uno de los metales más raros de la Tierra"
+    ]
+  },
+  {
+    "numeroAtomico": 45,
+    "simbolo": "Rh",
+    "nombre": "Rodio",
+    "masaAtomica": 102.91,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 9,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 12.41,
+    "puntoFusion": 1964,
+    "puntoEbullicion": 3695,
+    "electronegatividad": 2.28,
+    "configuracionElectronica": "[Kr] 4d8 5s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      16,
+      1
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "William Hyde Wollaston",
+    "añoDescubrimiento": 1804,
+    "descubridor": "William Hyde Wollaston",
+    "origenNombre": "Del griego 'rhodon' (rosa), por el color de sus sales",
+    "usos": [
+      "Convertidores catalíticos de automóviles",
+      "Joyería (recubrimiento de plata blanca)",
+      "Contactos eléctricos"
+    ],
+    "datosCuriosos": [
+      "Es uno de los metales más caros del mundo",
+      "Refleja la luz casi perfectamente"
+    ]
+  },
+  {
+    "numeroAtomico": 46,
+    "simbolo": "Pd",
+    "nombre": "Paladio",
+    "masaAtomica": 106.42,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 10,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 12.023,
+    "puntoFusion": 1554.9,
+    "puntoEbullicion": 2963,
+    "electronegatividad": 2.2,
+    "configuracionElectronica": "[Kr] 4d10",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18
+    ],
+    "valencias": [
+      2,
+      4
+    ],
+    "estadosOxidacion": [
+      2,
+      4
+    ],
+    "descubrimiento": "William Hyde Wollaston",
+    "añoDescubrimiento": 1803,
+    "descubridor": "William Hyde Wollaston",
+    "origenNombre": "Del asteroide Palas",
+    "usos": [
+      "Convertidores catalíticos",
+      "Joyería (oro blanco)",
+      "Componentes electrónicos",
+      "Almacenamiento de hidrógeno"
+    ],
+    "datosCuriosos": [
+      "Puede absorber grandes cantidades de hidrógeno",
+      "Es clave en los catalizadores de automóviles"
+    ]
+  },
+  {
+    "numeroAtomico": 47,
+    "simbolo": "Ag",
+    "nombre": "Plata",
+    "masaAtomica": 107.87,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 11,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 10.49,
+    "puntoFusion": 961.78,
+    "puntoEbullicion": 2162,
+    "electronegatividad": 1.93,
+    "configuracionElectronica": "[Kr] 4d10 5s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      1
+    ],
+    "valencias": [
+      1
+    ],
+    "estadosOxidacion": [
+      1
+    ],
+    "descubrimiento": "Conocido desde la antigüedad",
+    "añoDescubrimiento": "No aplica",
+    "descubridor": "Conocido desde la antigüedad",
+    "origenNombre": "Del latín 'argentum'",
+    "usos": [
+      "Joyería y platería",
+      "Fotografía tradicional",
+      "Componentes electrónicos",
+      "Propiedades antibacterianas"
+    ],
+    "datosCuriosos": [
+      "Es el mejor conductor eléctrico y térmico entre todos los metales",
+      "Tiene propiedades antimicrobianas naturales"
+    ]
+  },
+  {
+    "numeroAtomico": 48,
+    "simbolo": "Cd",
+    "nombre": "Cadmio",
+    "masaAtomica": 112.41,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 12,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 8.65,
+    "puntoFusion": 321.07,
+    "puntoEbullicion": 767,
+    "electronegatividad": 1.69,
+    "configuracionElectronica": "[Kr] 4d10 5s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      2
+    ],
+    "valencias": [
+      2
+    ],
+    "estadosOxidacion": [
+      2
+    ],
+    "descubrimiento": "Karl Samuel Leberecht Hermann / Friedrich Stromeyer",
+    "añoDescubrimiento": 1817,
+    "descubridor": "Karl Samuel Leberecht Hermann / Friedrich Stromeyer",
+    "origenNombre": "Del latín 'cadmia' (calamina)",
+    "usos": [
+      "Baterías níquel-cadmio",
+      "Pigmentos",
+      "Recubrimientos anticorrosivos",
+      "Semiconductores"
+    ],
+    "datosCuriosos": [
+      "Es altamente tóxico y su uso está muy regulado",
+      "Su uso ha disminuido por razones ambientales"
+    ]
+  },
+  {
+    "numeroAtomico": 49,
+    "simbolo": "In",
+    "nombre": "Indio",
+    "masaAtomica": 114.82,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 13,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 7.31,
+    "puntoFusion": 156.6,
+    "puntoEbullicion": 2072,
+    "electronegatividad": 1.78,
+    "configuracionElectronica": "[Kr] 4d10 5s2 5p1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      3
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Ferdinand Reich / Hieronymous Theodor Richter",
+    "añoDescubrimiento": 1863,
+    "descubridor": "Ferdinand Reich / Hieronymous Theodor Richter",
+    "origenNombre": "Por la línea espectral índigo que produce",
+    "usos": [
+      "Pantallas táctiles y LCD (óxido de indio y estaño)",
+      "Semiconductores",
+      "Soldaduras de bajo punto de fusión"
+    ],
+    "datosCuriosos": [
+      "Es fundamental para la fabricación de pantallas táctiles modernas",
+      "Es un metal blando que se puede cortar con un cuchillo"
+    ]
+  },
+  {
+    "numeroAtomico": 50,
+    "simbolo": "Sn",
+    "nombre": "Estaño",
+    "masaAtomica": 118.71,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 14,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 7.265,
+    "puntoFusion": 231.93,
+    "puntoEbullicion": 2602,
+    "electronegatividad": 1.96,
+    "configuracionElectronica": "[Kr] 4d10 5s2 5p2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      4
+    ],
+    "valencias": [
+      2,
+      4
+    ],
+    "estadosOxidacion": [
+      4,
+      2
+    ],
+    "descubrimiento": "Conocido desde la antigüedad",
+    "añoDescubrimiento": "No aplica",
+    "descubridor": "Conocido desde la antigüedad",
+    "origenNombre": "Del latín 'stannum'",
+    "usos": [
+      "Soldaduras electrónicas",
+      "Latas de conserva (recubrimiento)",
+      "Aleaciones (bronce)",
+      "Vidrio flotado"
+    ],
+    "datosCuriosos": [
+      "Se ha usado desde la Edad de Bronce",
+      "Emite un sonido característico llamado 'grito del estaño' al doblarse"
+    ]
+  },
+  {
+    "numeroAtomico": 51,
+    "simbolo": "Sb",
+    "nombre": "Antimonio",
+    "masaAtomica": 121.76,
+    "familia": "Metaloides",
+    "categoria": "Metaloides",
+    "bloque": "p",
+    "grupo": 15,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 6.697,
+    "puntoFusion": 630.63,
+    "puntoEbullicion": 1587,
+    "electronegatividad": 2.05,
+    "configuracionElectronica": "[Kr] 4d10 5s2 5p3",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      5
+    ],
+    "valencias": [
+      -3,
+      3,
+      5
+    ],
+    "estadosOxidacion": [
+      5,
+      3,
+      -3
+    ],
+    "descubrimiento": "Conocido desde la antigüedad",
+    "añoDescubrimiento": "No aplica",
+    "descubridor": "Conocido desde la antigüedad",
+    "origenNombre": "Del griego 'anti' + 'monos'; símbolo del latín 'stibium'",
+    "usos": [
+      "Retardantes de llama",
+      "Aleaciones (plomo para baterías)",
+      "Semiconductores",
+      "Pigmentos"
+    ],
+    "datosCuriosos": [
+      "Fue usado por los antiguos egipcios como cosmético (kohl)"
+    ]
+  },
+  {
+    "numeroAtomico": 52,
+    "simbolo": "Te",
+    "nombre": "Telurio",
+    "masaAtomica": 127.6,
+    "familia": "Metaloides",
+    "categoria": "Metaloides",
+    "bloque": "p",
+    "grupo": 16,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 6.24,
+    "puntoFusion": 449.51,
+    "puntoEbullicion": 988,
+    "electronegatividad": 2.1,
+    "configuracionElectronica": "[Kr] 4d10 5s2 5p4",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      6
+    ],
+    "valencias": [
+      -2,
+      4,
+      6
+    ],
+    "estadosOxidacion": [
+      6,
+      4,
+      -2
+    ],
+    "descubrimiento": "Franz-Joseph Müller von Reichenstein",
+    "añoDescubrimiento": 1782,
+    "descubridor": "Franz-Joseph Müller von Reichenstein",
+    "origenNombre": "Del latín 'tellus' (tierra)",
+    "usos": [
+      "Aleaciones metalúrgicas",
+      "Paneles solares (telururo de cadmio)",
+      "Fabricación de vidrio",
+      "Vulcanización del caucho"
+    ],
+    "datosCuriosos": [
+      "Es uno de los elementos más raros de la corteza terrestre",
+      "Su aliento produce un olor a ajo persistente"
+    ]
+  },
+  {
+    "numeroAtomico": 53,
+    "simbolo": "I",
+    "nombre": "Yodo",
+    "masaAtomica": 126.9,
+    "familia": "Halógenos",
+    "categoria": "Halógenos",
+    "bloque": "p",
+    "grupo": 17,
+    "periodo": 5,
+    "estado": "Sólido",
+    "densidad": 4.933,
+    "puntoFusion": 113.7,
+    "puntoEbullicion": 184.3,
+    "electronegatividad": 2.66,
+    "configuracionElectronica": "[Kr] 4d10 5s2 5p5",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      7
+    ],
+    "valencias": [
+      -1,
+      1,
+      3,
+      5,
+      7
+    ],
+    "estadosOxidacion": [
+      -1,
+      1,
+      5,
+      7
+    ],
+    "descubrimiento": "Bernard Courtois",
+    "añoDescubrimiento": 1811,
+    "descubridor": "Bernard Courtois",
+    "origenNombre": "Del griego 'iodes' (violeta)",
+    "usos": [
+      "Antisépticos y desinfectantes",
+      "Sal yodada (prevención de bocio)",
+      "Medios de contraste en radiología",
+      "Fotografía"
+    ],
+    "datosCuriosos": [
+      "Es esencial para la producción de hormonas tiroideas",
+      "Sublima directamente de sólido a un vapor violeta"
+    ]
+  },
+  {
+    "numeroAtomico": 54,
+    "simbolo": "Xe",
+    "nombre": "Xenón",
+    "masaAtomica": 131.29,
+    "familia": "Gases nobles",
+    "categoria": "Gases nobles",
+    "bloque": "p",
+    "grupo": 18,
+    "periodo": 5,
+    "estado": "Gas",
+    "densidad": 0.005887,
+    "puntoFusion": -111.75,
+    "puntoEbullicion": -108.12,
+    "electronegatividad": 2.6,
+    "configuracionElectronica": "[Kr] 4d10 5s2 5p6",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      8
+    ],
+    "valencias": [
+      0,
+      2,
+      4,
+      6,
+      8
+    ],
+    "estadosOxidacion": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "descubrimiento": "William Ramsay / Morris Travers",
+    "añoDescubrimiento": 1898,
+    "descubridor": "William Ramsay / Morris Travers",
+    "origenNombre": "Del griego 'xenos' (extraño)",
+    "usos": [
+      "Faros de xenón (automóviles)",
+      "Propulsión iónica de naves espaciales",
+      "Anestesia médica",
+      "Lámparas de destello fotográfico"
+    ],
+    "datosCuriosos": [
+      "Fue uno de los primeros gases nobles en formar compuestos químicos estables"
+    ]
+  },
+  {
+    "numeroAtomico": 55,
+    "simbolo": "Cs",
+    "nombre": "Cesio",
+    "masaAtomica": 132.91,
+    "familia": "Metales alcalinos",
+    "categoria": "Metales alcalinos",
+    "bloque": "s",
+    "grupo": 1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 1.93,
+    "puntoFusion": 28.44,
+    "puntoEbullicion": 671,
+    "electronegatividad": 0.79,
+    "configuracionElectronica": "[Xe] 6s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      8,
+      1
+    ],
+    "valencias": [
+      1
+    ],
+    "estadosOxidacion": [
+      1
+    ],
+    "descubrimiento": "Robert Bunsen / Gustav Kirchhoff",
+    "añoDescubrimiento": 1860,
+    "descubridor": "Robert Bunsen / Gustav Kirchhoff",
+    "origenNombre": "Del latín 'caesius' (azul cielo)",
+    "usos": [
+      "Relojes atómicos (definición del segundo)",
+      "Perforación petrolera (fluidos)",
+      "Células fotoeléctricas",
+      "Investigación en física"
+    ],
+    "datosCuriosos": [
+      "Define la duración oficial del segundo en el Sistema Internacional",
+      "Es tan reactivo que explota en contacto con el agua"
+    ]
+  },
+  {
+    "numeroAtomico": 56,
+    "simbolo": "Ba",
+    "nombre": "Bario",
+    "masaAtomica": 137.33,
+    "familia": "Metales alcalinotérreos",
+    "categoria": "Metales alcalinotérreos",
+    "bloque": "s",
+    "grupo": 2,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 3.51,
+    "puntoFusion": 727,
+    "puntoEbullicion": 1897,
+    "electronegatividad": 0.89,
+    "configuracionElectronica": "[Xe] 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      8,
+      2
+    ],
+    "valencias": [
+      2
+    ],
+    "estadosOxidacion": [
+      2
+    ],
+    "descubrimiento": "Carl Wilhelm Scheele / Humphry Davy",
+    "añoDescubrimiento": 1808,
+    "descubridor": "Carl Wilhelm Scheele / Humphry Davy",
+    "origenNombre": "Del griego 'barys' (pesado)",
+    "usos": [
+      "Medios de contraste en radiografías (sulfato de bario)",
+      "Fuegos artificiales (color verde)",
+      "Perforación de pozos petroleros",
+      "Fabricación de vidrio"
+    ],
+    "datosCuriosos": [
+      "El sulfato de bario se usa para radiografías del sistema digestivo"
+    ]
+  },
+  {
+    "numeroAtomico": 57,
+    "simbolo": "La",
+    "nombre": "Lantano",
+    "masaAtomica": 138.91,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 6.162,
+    "puntoFusion": 920,
+    "puntoEbullicion": 3464,
+    "electronegatividad": 1.1,
+    "configuracionElectronica": "[Xe] 5d1 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      18,
+      9,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Carl Gustaf Mosander",
+    "añoDescubrimiento": 1839,
+    "descubridor": "Carl Gustaf Mosander",
+    "origenNombre": "Del griego 'lanthanein' (ocultarse)",
+    "usos": [
+      "Baterías de níquel-hidruro metálico",
+      "Lentes de cámaras de alta calidad",
+      "Catalizadores de refinación de petróleo",
+      "Iluminación de estudio de cine"
+    ],
+    "datosCuriosos": [
+      "Da nombre a toda la serie de los lantánidos"
+    ]
+  },
+  {
+    "numeroAtomico": 58,
+    "simbolo": "Ce",
+    "nombre": "Cerio",
+    "masaAtomica": 140.12,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 6.77,
+    "puntoFusion": 798,
+    "puntoEbullicion": 3443,
+    "electronegatividad": 1.12,
+    "configuracionElectronica": "[Xe] 4f1 5d1 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      19,
+      9,
+      2
+    ],
+    "valencias": [
+      3,
+      4
+    ],
+    "estadosOxidacion": [
+      4,
+      3
+    ],
+    "descubrimiento": "Martin Heinrich Klaproth / Jöns Jacob Berzelius",
+    "añoDescubrimiento": 1803,
+    "descubridor": "Martin Heinrich Klaproth / Jöns Jacob Berzelius",
+    "origenNombre": "Del asteroide Ceres",
+    "usos": [
+      "Piedras de encendedores",
+      "Pulido de vidrio",
+      "Catalizadores automotrices",
+      "Aleaciones (ferrocerio)"
+    ],
+    "datosCuriosos": [
+      "Es el más abundante de todos los lantánidos"
+    ]
+  },
+  {
+    "numeroAtomico": 59,
+    "simbolo": "Pr",
+    "nombre": "Praseodimio",
+    "masaAtomica": 140.91,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 6.77,
+    "puntoFusion": 931,
+    "puntoEbullicion": 3520,
+    "electronegatividad": 1.13,
+    "configuracionElectronica": "[Xe] 4f3 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      21,
+      8,
+      2
+    ],
+    "valencias": [
+      3,
+      4
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Carl Auer von Welsbach",
+    "añoDescubrimiento": 1885,
+    "descubridor": "Carl Auer von Welsbach",
+    "origenNombre": "Del griego 'prasios didymos' (gemelo verde)",
+    "usos": [
+      "Imanes permanentes de alta potencia",
+      "Vidrio de soldadores (protección ocular)",
+      "Pigmentos cerámicos",
+      "Aleaciones para motores de aviación"
+    ],
+    "datosCuriosos": [
+      "Sus sales dan un color verde-amarillo intenso al vidrio y esmalte"
+    ]
+  },
+  {
+    "numeroAtomico": 60,
+    "simbolo": "Nd",
+    "nombre": "Neodimio",
+    "masaAtomica": 144.24,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 7.01,
+    "puntoFusion": 1021,
+    "puntoEbullicion": 3074,
+    "electronegatividad": 1.14,
+    "configuracionElectronica": "[Xe] 4f4 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      22,
+      8,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Carl Auer von Welsbach",
+    "añoDescubrimiento": 1885,
+    "descubridor": "Carl Auer von Welsbach",
+    "origenNombre": "Del griego 'neos didymos' (nuevo gemelo)",
+    "usos": [
+      "Imanes permanentes (discos duros, audífonos, motores eléctricos)",
+      "Láseres industriales y médicos",
+      "Vidrios especiales",
+      "Motores de vehículos eléctricos"
+    ],
+    "datosCuriosos": [
+      "Sus imanes son de los más potentes que existen"
+    ]
+  },
+  {
+    "numeroAtomico": 61,
+    "simbolo": "Pm",
+    "nombre": "Prometio",
+    "masaAtomica": 145.0,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 7.26,
+    "puntoFusion": 1042,
+    "puntoEbullicion": 3000,
+    "electronegatividad": 1.13,
+    "configuracionElectronica": "[Xe] 4f5 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      23,
+      8,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Jacob A. Marinsky, Lawrence E. Glendenin, Charles D. Coryell",
+    "añoDescubrimiento": 1945,
+    "descubridor": "Jacob A. Marinsky, Lawrence E. Glendenin, Charles D. Coryell",
+    "origenNombre": "De Prometeo, titán de la mitología griega",
+    "usos": [
+      "Baterías nucleares de larga duración",
+      "Pinturas luminiscentes",
+      "Investigación científica"
+    ],
+    "datosCuriosos": [
+      "Es el único lantánido que no tiene isótopos estables en la naturaleza"
+    ]
+  },
+  {
+    "numeroAtomico": 62,
+    "simbolo": "Sm",
+    "nombre": "Samario",
+    "masaAtomica": 150.36,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 7.52,
+    "puntoFusion": 1074,
+    "puntoEbullicion": 1794,
+    "electronegatividad": 1.17,
+    "configuracionElectronica": "[Xe] 4f6 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      24,
+      8,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Paul-Émile Lecoq de Boisbaudran",
+    "añoDescubrimiento": 1879,
+    "descubridor": "Paul-Émile Lecoq de Boisbaudran",
+    "origenNombre": "Del mineral samarskita",
+    "usos": [
+      "Imanes samario-cobalto",
+      "Absorbente de neutrones en reactores nucleares",
+      "Láseres",
+      "Tratamiento de cáncer (radioterapia)"
+    ],
+    "datosCuriosos": [
+      "Fue el primer elemento nombrado en honor a una persona (el ingeniero Vasili Samarsky)"
+    ]
+  },
+  {
+    "numeroAtomico": 63,
+    "simbolo": "Eu",
+    "nombre": "Europio",
+    "masaAtomica": 151.96,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 5.264,
+    "puntoFusion": 822,
+    "puntoEbullicion": 1529,
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Xe] 4f7 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      25,
+      8,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      3,
+      2
+    ],
+    "descubrimiento": "Eugène-Anatole Demarçay",
+    "añoDescubrimiento": 1901,
+    "descubridor": "Eugène-Anatole Demarçay",
+    "origenNombre": "De Europa",
+    "usos": [
+      "Fósforos rojos y azules en pantallas",
+      "Medida antifalsificación en billetes de euro",
+      "Láseres"
+    ],
+    "datosCuriosos": [
+      "Se usa como marca de seguridad en los billetes de euro bajo luz ultravioleta"
+    ]
+  },
+  {
+    "numeroAtomico": 64,
+    "simbolo": "Gd",
+    "nombre": "Gadolinio",
+    "masaAtomica": 157.25,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 7.9,
+    "puntoFusion": 1313,
+    "puntoEbullicion": 3273,
+    "electronegatividad": 1.2,
+    "configuracionElectronica": "[Xe] 4f7 5d1 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      25,
+      9,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Jean Charles Galissard de Marignac",
+    "añoDescubrimiento": 1880,
+    "descubridor": "Jean Charles Galissard de Marignac",
+    "origenNombre": "En honor a Johan Gadolin",
+    "usos": [
+      "Agentes de contraste en resonancia magnética",
+      "Reactores nucleares (absorción de neutrones)",
+      "Discos de memoria magneto-ópticos"
+    ],
+    "datosCuriosos": [
+      "Se usa como agente de contraste en resonancias magnéticas"
+    ]
+  },
+  {
+    "numeroAtomico": 65,
+    "simbolo": "Tb",
+    "nombre": "Terbio",
+    "masaAtomica": 158.93,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 8.23,
+    "puntoFusion": 1356,
+    "puntoEbullicion": 3230,
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Xe] 4f9 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      27,
+      8,
+      2
+    ],
+    "valencias": [
+      3,
+      4
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Carl Gustaf Mosander",
+    "añoDescubrimiento": 1843,
+    "descubridor": "Carl Gustaf Mosander",
+    "origenNombre": "De Ytterby, pueblo sueco",
+    "usos": [
+      "Fósforos verdes en pantallas y lámparas",
+      "Sonar naval (aleación Terfenol-D)",
+      "Dispositivos de estado sólido"
+    ],
+    "datosCuriosos": [
+      "Es uno de los cuatro elementos que llevan el nombre de Ytterby"
+    ]
+  },
+  {
+    "numeroAtomico": 66,
+    "simbolo": "Dy",
+    "nombre": "Disprosio",
+    "masaAtomica": 162.5,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 8.54,
+    "puntoFusion": 1412,
+    "puntoEbullicion": 2567,
+    "electronegatividad": 1.22,
+    "configuracionElectronica": "[Xe] 4f10 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      28,
+      8,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Paul-Émile Lecoq de Boisbaudran",
+    "añoDescubrimiento": 1886,
+    "descubridor": "Paul-Émile Lecoq de Boisbaudran",
+    "origenNombre": "Del griego 'dysprositos' (difícil de obtener)",
+    "usos": [
+      "Imanes de alto rendimiento (con neodimio)",
+      "Barras de control en reactores nucleares",
+      "Discos duros"
+    ],
+    "datosCuriosos": [
+      "Su nombre refleja lo difícil que fue aislarlo originalmente"
+    ]
+  },
+  {
+    "numeroAtomico": 67,
+    "simbolo": "Ho",
+    "nombre": "Holmio",
+    "masaAtomica": 164.93,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 8.79,
+    "puntoFusion": 1474,
+    "puntoEbullicion": 2700,
+    "electronegatividad": 1.23,
+    "configuracionElectronica": "[Xe] 4f11 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      29,
+      8,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Marc Delafontaine / Jacques-Louis Soret",
+    "añoDescubrimiento": 1878,
+    "descubridor": "Marc Delafontaine / Jacques-Louis Soret",
+    "origenNombre": "De Holmia (nombre latino de Estocolmo)",
+    "usos": [
+      "Láseres médicos y dentales",
+      "Imanes de alta potencia",
+      "Vidrios y cristales especiales para calibración"
+    ],
+    "datosCuriosos": [
+      "Tiene el momento magnético más alto de cualquier elemento natural"
+    ]
+  },
+  {
+    "numeroAtomico": 68,
+    "simbolo": "Er",
+    "nombre": "Erbio",
+    "masaAtomica": 167.26,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 9.066,
+    "puntoFusion": 1529,
+    "puntoEbullicion": 2868,
+    "electronegatividad": 1.24,
+    "configuracionElectronica": "[Xe] 4f12 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      30,
+      8,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Carl Gustaf Mosander",
+    "añoDescubrimiento": 1843,
+    "descubridor": "Carl Gustaf Mosander",
+    "origenNombre": "De Ytterby, pueblo sueco",
+    "usos": [
+      "Amplificadores de fibra óptica",
+      "Láseres médicos (dermatología)",
+      "Colorantes de vidrio y esmalte (rosa)"
+    ],
+    "datosCuriosos": [
+      "Es esencial en los amplificadores de las redes de fibra óptica mundiales"
+    ]
+  },
+  {
+    "numeroAtomico": 69,
+    "simbolo": "Tm",
+    "nombre": "Tulio",
+    "masaAtomica": 168.93,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 9.32,
+    "puntoFusion": 1545,
+    "puntoEbullicion": 1950,
+    "electronegatividad": 1.25,
+    "configuracionElectronica": "[Xe] 4f13 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      31,
+      8,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Per Teodor Cleve",
+    "añoDescubrimiento": 1879,
+    "descubridor": "Per Teodor Cleve",
+    "origenNombre": "De Thule, nombre antiguo de una tierra nórdica",
+    "usos": [
+      "Láseres médicos portátiles",
+      "Dispositivos de rayos X portátiles",
+      "Investigación científica"
+    ],
+    "datosCuriosos": [
+      "Es uno de los elementos más escasos y costosos de los lantánidos"
+    ]
+  },
+  {
+    "numeroAtomico": 70,
+    "simbolo": "Yb",
+    "nombre": "Iterbio",
+    "masaAtomica": 173.05,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 6.9,
+    "puntoFusion": 824,
+    "puntoEbullicion": 1196,
+    "electronegatividad": 1.1,
+    "configuracionElectronica": "[Xe] 4f14 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      8,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Jean Charles Galissard de Marignac",
+    "añoDescubrimiento": 1878,
+    "descubridor": "Jean Charles Galissard de Marignac",
+    "origenNombre": "De Ytterby, pueblo sueco",
+    "usos": [
+      "Relojes atómicos de alta precisión",
+      "Aleaciones de acero inoxidable",
+      "Láseres"
+    ],
+    "datosCuriosos": [
+      "Se usa en algunos de los relojes atómicos más precisos del mundo"
+    ]
+  },
+  {
+    "numeroAtomico": 71,
+    "simbolo": "Lu",
+    "nombre": "Lutecio",
+    "masaAtomica": 174.97,
+    "familia": "Lantánidos",
+    "categoria": "Lantánidos",
+    "bloque": "d",
+    "grupo": -1,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 9.841,
+    "puntoFusion": 1663,
+    "puntoEbullicion": 3402,
+    "electronegatividad": 1.27,
+    "configuracionElectronica": "[Xe] 4f14 5d1 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      9,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Georges Urbain / Carl Auer von Welsbach",
+    "añoDescubrimiento": 1907,
+    "descubridor": "Georges Urbain / Carl Auer von Welsbach",
+    "origenNombre": "De Lutecia, nombre antiguo de París",
+    "usos": [
+      "Detectores de tomografía por emisión de positrones (PET)",
+      "Catálisis en refinación de petróleo",
+      "Investigación científica"
+    ],
+    "datosCuriosos": [
+      "Es el lantánido más pesado y menos abundante"
+    ]
+  },
+  {
+    "numeroAtomico": 72,
+    "simbolo": "Hf",
+    "nombre": "Hafnio",
+    "masaAtomica": 178.49,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 4,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 13.31,
+    "puntoFusion": 2233,
+    "puntoEbullicion": 4603,
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Xe] 4f14 5d2 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      10,
+      2
+    ],
+    "valencias": [
+      4
+    ],
+    "estadosOxidacion": [
+      4
+    ],
+    "descubrimiento": "Dirk Coster / George de Hevesy",
+    "añoDescubrimiento": 1923,
+    "descubridor": "Dirk Coster / George de Hevesy",
+    "origenNombre": "De Hafnia (nombre latino de Copenhague)",
+    "usos": [
+      "Barras de control de reactores nucleares",
+      "Chips de computadora de alto rendimiento (aislantes)",
+      "Aleaciones aeroespaciales"
+    ],
+    "datosCuriosos": [
+      "Fue uno de los últimos elementos estables en ser descubierto"
+    ]
+  },
+  {
+    "numeroAtomico": 73,
+    "simbolo": "Ta",
+    "nombre": "Tántalo",
+    "masaAtomica": 180.95,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 5,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 16.69,
+    "puntoFusion": 3017,
+    "puntoEbullicion": 5458,
+    "electronegatividad": 1.5,
+    "configuracionElectronica": "[Xe] 4f14 5d3 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      11,
+      2
+    ],
+    "valencias": [
+      5
+    ],
+    "estadosOxidacion": [
+      5
+    ],
+    "descubrimiento": "Anders Gustaf Ekeberg",
+    "añoDescubrimiento": 1802,
+    "descubridor": "Anders Gustaf Ekeberg",
+    "origenNombre": "De Tántalo, personaje de la mitología griega",
+    "usos": [
+      "Condensadores electrónicos (teléfonos, computadoras)",
+      "Implantes médicos y quirúrgicos",
+      "Aleaciones de alta temperatura"
+    ],
+    "datosCuriosos": [
+      "Es altamente resistente a la corrosión, casi como el vidrio"
+    ]
+  },
+  {
+    "numeroAtomico": 74,
+    "simbolo": "W",
+    "nombre": "Wolframio",
+    "masaAtomica": 183.84,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 6,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 19.25,
+    "puntoFusion": 3422,
+    "puntoEbullicion": 5555,
+    "electronegatividad": 2.36,
+    "configuracionElectronica": "[Xe] 4f14 5d4 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      12,
+      2
+    ],
+    "valencias": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "estadosOxidacion": [
+      6,
+      4
+    ],
+    "descubrimiento": "Juan José Elhuyar / Fausto Elhuyar",
+    "añoDescubrimiento": 1783,
+    "descubridor": "Juan José Elhuyar / Fausto Elhuyar",
+    "origenNombre": "Del sueco 'tungsten' (piedra pesada); símbolo del alemán 'wolfram'",
+    "usos": [
+      "Filamentos de bombillas incandescentes",
+      "Herramientas de corte de alta dureza",
+      "Electrodos de soldadura",
+      "Contrapesos y blindajes"
+    ],
+    "datosCuriosos": [
+      "Tiene el punto de fusión más alto de todos los metales",
+      "Fue descubierto por los hermanos españoles Elhuyar"
+    ]
+  },
+  {
+    "numeroAtomico": 75,
+    "simbolo": "Re",
+    "nombre": "Renio",
+    "masaAtomica": 186.21,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 7,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 21.02,
+    "puntoFusion": 3186,
+    "puntoEbullicion": 5596,
+    "electronegatividad": 1.9,
+    "configuracionElectronica": "[Xe] 4f14 5d5 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      13,
+      2
+    ],
+    "valencias": [
+      -1,
+      2,
+      4,
+      6,
+      7
+    ],
+    "estadosOxidacion": [
+      7,
+      4
+    ],
+    "descubrimiento": "Walter Noddack, Ida Tacke, Otto Berg",
+    "añoDescubrimiento": 1925,
+    "descubridor": "Walter Noddack, Ida Tacke, Otto Berg",
+    "origenNombre": "Del latín 'Rhenus' (río Rin)",
+    "usos": [
+      "Superaleaciones para turbinas de motores a reacción",
+      "Catalizadores industriales",
+      "Filamentos y contactos eléctricos"
+    ],
+    "datosCuriosos": [
+      "Fue uno de los últimos elementos naturales estables en descubrirse"
+    ]
+  },
+  {
+    "numeroAtomico": 76,
+    "simbolo": "Os",
+    "nombre": "Osmio",
+    "masaAtomica": 190.23,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 8,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 22.59,
+    "puntoFusion": 3033,
+    "puntoEbullicion": 5012,
+    "electronegatividad": 2.2,
+    "configuracionElectronica": "[Xe] 4f14 5d6 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      14,
+      2
+    ],
+    "valencias": [
+      2,
+      3,
+      4,
+      6,
+      8
+    ],
+    "estadosOxidacion": [
+      4
+    ],
+    "descubrimiento": "Smithson Tennant",
+    "añoDescubrimiento": 1803,
+    "descubridor": "Smithson Tennant",
+    "origenNombre": "Del griego 'osme' (olor)",
+    "usos": [
+      "Puntas de plumas estilográficas",
+      "Contactos eléctricos de alta durabilidad",
+      "Instrumentos de precisión"
+    ],
+    "datosCuriosos": [
+      "Es el elemento natural más denso conocido"
+    ]
+  },
+  {
+    "numeroAtomico": 77,
+    "simbolo": "Ir",
+    "nombre": "Iridio",
+    "masaAtomica": 192.22,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 9,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 22.56,
+    "puntoFusion": 2446,
+    "puntoEbullicion": 4428,
+    "electronegatividad": 2.2,
+    "configuracionElectronica": "[Xe] 4f14 5d7 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      15,
+      2
+    ],
+    "valencias": [
+      3,
+      4
+    ],
+    "estadosOxidacion": [
+      4,
+      3
+    ],
+    "descubrimiento": "Smithson Tennant",
+    "añoDescubrimiento": 1803,
+    "descubridor": "Smithson Tennant",
+    "origenNombre": "Del latín 'iris' (arcoíris)",
+    "usos": [
+      "Bujías de motores de alto rendimiento",
+      "Crisoles de laboratorio resistentes al calor",
+      "Electrodos"
+    ],
+    "datosCuriosos": [
+      "Una capa de iridio en la corteza terrestre ayudó a datar la extinción de los dinosaurios"
+    ]
+  },
+  {
+    "numeroAtomico": 78,
+    "simbolo": "Pt",
+    "nombre": "Platino",
+    "masaAtomica": 195.08,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 10,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 21.45,
+    "puntoFusion": 1768.3,
+    "puntoEbullicion": 3825,
+    "electronegatividad": 2.28,
+    "configuracionElectronica": "[Xe] 4f14 5d9 6s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      17,
+      1
+    ],
+    "valencias": [
+      2,
+      4
+    ],
+    "estadosOxidacion": [
+      4,
+      2
+    ],
+    "descubrimiento": "Antonio de Ulloa",
+    "añoDescubrimiento": 1735,
+    "descubridor": "Antonio de Ulloa",
+    "origenNombre": "Del español 'platina' (plata pequeña)",
+    "usos": [
+      "Convertidores catalíticos de automóviles",
+      "Joyería fina",
+      "Electrodos e instrumentos de laboratorio",
+      "Medicamentos contra el cáncer"
+    ],
+    "datosCuriosos": [
+      "Es uno de los metales más raros y valiosos de la Tierra"
+    ]
+  },
+  {
+    "numeroAtomico": 79,
+    "simbolo": "Au",
+    "nombre": "Oro",
+    "masaAtomica": 196.97,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 11,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 19.3,
+    "puntoFusion": 1064.18,
+    "puntoEbullicion": 2856,
+    "electronegatividad": 2.54,
+    "configuracionElectronica": "[Xe] 4f14 5d10 6s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      1
+    ],
+    "valencias": [
+      1,
+      3
+    ],
+    "estadosOxidacion": [
+      3,
+      1
+    ],
+    "descubrimiento": "Conocido desde la antigüedad",
+    "añoDescubrimiento": "No aplica",
+    "descubridor": "Conocido desde la antigüedad",
+    "origenNombre": "Del latín 'aurum'",
+    "usos": [
+      "Joyería",
+      "Componentes electrónicos de alta fiabilidad",
+      "Reserva de valor económico",
+      "Odontología"
+    ],
+    "datosCuriosos": [
+      "Es tan maleable que se puede laminar hasta ser translúcido",
+      "No se oxida ni se corroe"
+    ]
+  },
+  {
+    "numeroAtomico": 80,
+    "simbolo": "Hg",
+    "nombre": "Mercurio",
+    "masaAtomica": 200.59,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 12,
+    "periodo": 6,
+    "estado": "Líquido",
+    "densidad": 13.534,
+    "puntoFusion": -38.83,
+    "puntoEbullicion": 356.73,
+    "electronegatividad": 2.0,
+    "configuracionElectronica": "[Xe] 4f14 5d10 6s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      2
+    ],
+    "valencias": [
+      1,
+      2
+    ],
+    "estadosOxidacion": [
+      2,
+      1
+    ],
+    "descubrimiento": "Conocido desde la antigüedad",
+    "añoDescubrimiento": "No aplica",
+    "descubridor": "Conocido desde la antigüedad",
+    "origenNombre": "Del dios romano Mercurio",
+    "usos": [
+      "Termómetros y barómetros (uso en descenso)",
+      "Lámparas fluorescentes",
+      "Amalgamas dentales (uso restringido)",
+      "Interruptores eléctricos"
+    ],
+    "datosCuriosos": [
+      "Es el único metal líquido a temperatura ambiente",
+      "Es altamente tóxico para el sistema nervioso"
+    ]
+  },
+  {
+    "numeroAtomico": 81,
+    "simbolo": "Tl",
+    "nombre": "Talio",
+    "masaAtomica": 204.38,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 13,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 11.85,
+    "puntoFusion": 304,
+    "puntoEbullicion": 1473,
+    "electronegatividad": 1.62,
+    "configuracionElectronica": "[Xe] 4f14 5d10 6s2 6p1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      3
+    ],
+    "valencias": [
+      1,
+      3
+    ],
+    "estadosOxidacion": [
+      1,
+      3
+    ],
+    "descubrimiento": "William Crookes",
+    "añoDescubrimiento": 1861,
+    "descubridor": "William Crookes",
+    "origenNombre": "Del griego 'thallos' (brote verde)",
+    "usos": [
+      "Electrónica de semiconductores",
+      "Investigación en superconductividad",
+      "Antiguamente en raticidas (prohibido actualmente)"
+    ],
+    "datosCuriosos": [
+      "Fue usado como veneno debido a que es incoloro, inodoro e insípido"
+    ]
+  },
+  {
+    "numeroAtomico": 82,
+    "simbolo": "Pb",
+    "nombre": "Plomo",
+    "masaAtomica": 207.2,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 14,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 11.34,
+    "puntoFusion": 327.46,
+    "puntoEbullicion": 1749,
+    "electronegatividad": 2.33,
+    "configuracionElectronica": "[Xe] 4f14 5d10 6s2 6p2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      4
+    ],
+    "valencias": [
+      2,
+      4
+    ],
+    "estadosOxidacion": [
+      2,
+      4
+    ],
+    "descubrimiento": "Conocido desde la antigüedad",
+    "añoDescubrimiento": "No aplica",
+    "descubridor": "Conocido desde la antigüedad",
+    "origenNombre": "Del latín 'plumbum'",
+    "usos": [
+      "Baterías de plomo-ácido",
+      "Blindaje contra radiación",
+      "Antiguamente en pinturas y tuberías (uso restringido)",
+      "Contrapesos"
+    ],
+    "datosCuriosos": [
+      "Fue ampliamente usado por los romanos en tuberías",
+      "Es tóxico y su uso está muy regulado hoy en día"
+    ]
+  },
+  {
+    "numeroAtomico": 83,
+    "simbolo": "Bi",
+    "nombre": "Bismuto",
+    "masaAtomica": 208.98,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 15,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 9.78,
+    "puntoFusion": 271.4,
+    "puntoEbullicion": 1564,
+    "electronegatividad": 2.02,
+    "configuracionElectronica": "[Xe] 4f14 5d10 6s2 6p3",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      5
+    ],
+    "valencias": [
+      3,
+      5
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Conocido desde la antigüedad (Claude François Geoffroy lo diferenció del plomo)",
+    "añoDescubrimiento": 1753,
+    "descubridor": "Conocido desde la antigüedad (Claude François Geoffroy lo diferenció del plomo)",
+    "origenNombre": "Posiblemente del alemán 'weisse masse' (masa blanca)",
+    "usos": [
+      "Medicamentos antiácidos (subsalicilato de bismuto)",
+      "Cosméticos y pigmentos",
+      "Aleaciones de bajo punto de fusión",
+      "Sustituto no tóxico del plomo"
+    ],
+    "datosCuriosos": [
+      "Forma cristales con colores iridiscentes muy llamativos",
+      "Es uno de los metales pesados menos tóxicos"
+    ]
+  },
+  {
+    "numeroAtomico": 84,
+    "simbolo": "Po",
+    "nombre": "Polonio",
+    "masaAtomica": 209.0,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 16,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": 9.196,
+    "puntoFusion": 254,
+    "puntoEbullicion": 962,
+    "electronegatividad": 2.0,
+    "configuracionElectronica": "[Xe] 4f14 5d10 6s2 6p4",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      6
+    ],
+    "valencias": [
+      2,
+      4
+    ],
+    "estadosOxidacion": [
+      4,
+      2
+    ],
+    "descubrimiento": "Marie Curie / Pierre Curie",
+    "añoDescubrimiento": 1898,
+    "descubridor": "Marie Curie / Pierre Curie",
+    "origenNombre": "En honor a Polonia, país natal de Marie Curie",
+    "usos": [
+      "Fuentes de calor para naves espaciales (generadores termoeléctricos)",
+      "Eliminadores de electricidad estática",
+      "Investigación científica"
+    ],
+    "datosCuriosos": [
+      "Es extremadamente radiactivo y peligroso",
+      "Fue nombrado por Marie Curie en honor a su país natal"
+    ]
+  },
+  {
+    "numeroAtomico": 85,
+    "simbolo": "At",
+    "nombre": "Astato",
+    "masaAtomica": 210.0,
+    "familia": "Halógenos",
+    "categoria": "Halógenos",
+    "bloque": "p",
+    "grupo": 17,
+    "periodo": 6,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": 302,
+    "puntoEbullicion": 337,
+    "electronegatividad": 2.2,
+    "configuracionElectronica": "[Xe] 4f14 5d10 6s2 6p5",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      7
+    ],
+    "valencias": [
+      -1,
+      1,
+      3,
+      5,
+      7
+    ],
+    "estadosOxidacion": [
+      -1
+    ],
+    "descubrimiento": "Dale R. Corson, Kenneth Ross MacKenzie, Emilio Segrè",
+    "añoDescubrimiento": 1940,
+    "descubridor": "Dale R. Corson, Kenneth Ross MacKenzie, Emilio Segrè",
+    "origenNombre": "Del griego 'astatos' (inestable)",
+    "usos": [
+      "Investigación en radioterapia dirigida contra el cáncer"
+    ],
+    "datosCuriosos": [
+      "Es el elemento natural más raro de la corteza terrestre",
+      "Se estima que hay menos de 30 gramos en toda la corteza terrestre"
+    ]
+  },
+  {
+    "numeroAtomico": 86,
+    "simbolo": "Rn",
+    "nombre": "Radón",
+    "masaAtomica": 222.0,
+    "familia": "Gases nobles",
+    "categoria": "Gases nobles",
+    "bloque": "p",
+    "grupo": 18,
+    "periodo": 6,
+    "estado": "Gas",
+    "densidad": 0.00973,
+    "puntoFusion": -71,
+    "puntoEbullicion": -61.7,
+    "electronegatividad": 2.2,
+    "configuracionElectronica": "[Xe] 4f14 5d10 6s2 6p6",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8
+    ],
+    "valencias": [
+      0,
+      2
+    ],
+    "estadosOxidacion": [
+      0
+    ],
+    "descubrimiento": "Friedrich Ernst Dorn",
+    "añoDescubrimiento": 1900,
+    "descubridor": "Friedrich Ernst Dorn",
+    "origenNombre": "Del elemento radio",
+    "usos": [
+      "Antiguamente en radioterapia médica",
+      "Estudios geológicos (detección de fallas)"
+    ],
+    "datosCuriosos": [
+      "Es un gas radiactivo que puede acumularse en sótanos y viviendas",
+      "Es la segunda causa principal de cáncer de pulmón después del tabaco"
+    ]
+  },
+  {
+    "numeroAtomico": 87,
+    "simbolo": "Fr",
+    "nombre": "Francio",
+    "masaAtomica": 223.0,
+    "familia": "Metales alcalinos",
+    "categoria": "Metales alcalinos",
+    "bloque": "s",
+    "grupo": 1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": 27,
+    "puntoEbullicion": 677,
+    "electronegatividad": 0.7,
+    "configuracionElectronica": "[Rn] 7s1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8,
+      1
+    ],
+    "valencias": [
+      1
+    ],
+    "estadosOxidacion": [
+      1
+    ],
+    "descubrimiento": "Marguerite Perey",
+    "añoDescubrimiento": 1939,
+    "descubridor": "Marguerite Perey",
+    "origenNombre": "En honor a Francia",
+    "usos": [
+      "Investigación científica (sin usos prácticos por su rareza)"
+    ],
+    "datosCuriosos": [
+      "Es uno de los elementos más raros e inestables de la naturaleza",
+      "Se estima que hay menos de 1 onza en toda la corteza terrestre en un momento dado"
+    ]
+  },
+  {
+    "numeroAtomico": 88,
+    "simbolo": "Ra",
+    "nombre": "Radio",
+    "masaAtomica": 226.0,
+    "familia": "Metales alcalinotérreos",
+    "categoria": "Metales alcalinotérreos",
+    "bloque": "s",
+    "grupo": 2,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 5.5,
+    "puntoFusion": 700,
+    "puntoEbullicion": 1737,
+    "electronegatividad": 0.9,
+    "configuracionElectronica": "[Rn] 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8,
+      2
+    ],
+    "valencias": [
+      2
+    ],
+    "estadosOxidacion": [
+      2
+    ],
+    "descubrimiento": "Marie Curie / Pierre Curie",
+    "añoDescubrimiento": 1898,
+    "descubridor": "Marie Curie / Pierre Curie",
+    "origenNombre": "Del latín 'radius' (rayo)",
+    "usos": [
+      "Antiguamente en pinturas luminiscentes (prohibido hoy)",
+      "Radioterapia médica temprana",
+      "Investigación científica"
+    ],
+    "datosCuriosos": [
+      "Fue descubierto por Marie y Pierre Curie",
+      "Su uso en relojes luminiscentes causó envenenamientos históricos"
+    ]
+  },
+  {
+    "numeroAtomico": 89,
+    "simbolo": "Ac",
+    "nombre": "Actinio",
+    "masaAtomica": 227.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 10.07,
+    "puntoFusion": 1050,
+    "puntoEbullicion": 3200,
+    "electronegatividad": 1.1,
+    "configuracionElectronica": "[Rn] 6d1 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      9,
+      2
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "André-Louis Debierne",
+    "añoDescubrimiento": 1899,
+    "descubridor": "André-Louis Debierne",
+    "origenNombre": "Del griego 'aktinos' (rayo)",
+    "usos": [
+      "Fuente de neutrones en investigación",
+      "Radioterapia médica dirigida"
+    ],
+    "datosCuriosos": [
+      "Da nombre a toda la serie de los actínidos",
+      "Es intensamente radiactivo y brilla débilmente en la oscuridad"
+    ]
+  },
+  {
+    "numeroAtomico": 90,
+    "simbolo": "Th",
+    "nombre": "Torio",
+    "masaAtomica": 232.04,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 11.72,
+    "puntoFusion": 1750,
+    "puntoEbullicion": 4788,
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Rn] 6d2 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      10,
+      2
+    ],
+    "valencias": [
+      4
+    ],
+    "estadosOxidacion": [
+      4
+    ],
+    "descubrimiento": "Jöns Jacob Berzelius",
+    "añoDescubrimiento": 1829,
+    "descubridor": "Jöns Jacob Berzelius",
+    "origenNombre": "De Thor, dios nórdico del trueno",
+    "usos": [
+      "Combustible nuclear potencial (reactores de torio)",
+      "Manto de lámparas de gas antiguas",
+      "Aleaciones de aeroespacial"
+    ],
+    "datosCuriosos": [
+      "Se investiga como alternativa más segura al uranio en reactores nucleares"
+    ]
+  },
+  {
+    "numeroAtomico": 91,
+    "simbolo": "Pa",
+    "nombre": "Protactinio",
+    "masaAtomica": 231.04,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 15.37,
+    "puntoFusion": 1568,
+    "puntoEbullicion": 4027,
+    "electronegatividad": 1.5,
+    "configuracionElectronica": "[Rn] 5f2 6d1 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      20,
+      9,
+      2
+    ],
+    "valencias": [
+      4,
+      5
+    ],
+    "estadosOxidacion": [
+      5
+    ],
+    "descubrimiento": "Kasimir Fajans, Oswald Helmuth Göhring / Otto Hahn, Lise Meitner",
+    "añoDescubrimiento": 1913,
+    "descubridor": "Kasimir Fajans, Oswald Helmuth Göhring / Otto Hahn, Lise Meitner",
+    "origenNombre": "Del griego 'protos' (primero) + actinio",
+    "usos": [
+      "Investigación científica (sin usos prácticos comunes)"
+    ],
+    "datosCuriosos": [
+      "Es extremadamente raro, tóxico y radiactivo",
+      "Es uno de los elementos naturales más escasos"
+    ]
+  },
+  {
+    "numeroAtomico": 92,
+    "simbolo": "U",
+    "nombre": "Uranio",
+    "masaAtomica": 238.03,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 19.05,
+    "puntoFusion": 1132.2,
+    "puntoEbullicion": 4131,
+    "electronegatividad": 1.38,
+    "configuracionElectronica": "[Rn] 5f3 6d1 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      21,
+      9,
+      2
+    ],
+    "valencias": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "estadosOxidacion": [
+      6,
+      4
+    ],
+    "descubrimiento": "Martin Heinrich Klaproth",
+    "añoDescubrimiento": 1789,
+    "descubridor": "Martin Heinrich Klaproth",
+    "origenNombre": "Del planeta Urano",
+    "usos": [
+      "Combustible para reactores nucleares",
+      "Armamento nuclear (histórico)",
+      "Blindaje contra radiación",
+      "Datación radiométrica de rocas"
+    ],
+    "datosCuriosos": [
+      "Es el elemento natural más pesado que se encuentra en cantidades significativas",
+      "Su fisión nuclear libera enormes cantidades de energía"
+    ]
+  },
+  {
+    "numeroAtomico": 93,
+    "simbolo": "Np",
+    "nombre": "Neptunio",
+    "masaAtomica": 237.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 20.45,
+    "puntoFusion": 644,
+    "puntoEbullicion": 3902,
+    "electronegatividad": 1.36,
+    "configuracionElectronica": "[Rn] 5f4 6d1 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      22,
+      9,
+      2
+    ],
+    "valencias": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "estadosOxidacion": [
+      5
+    ],
+    "descubrimiento": "Edwin McMillan / Philip Abelson",
+    "añoDescubrimiento": 1940,
+    "descubridor": "Edwin McMillan / Philip Abelson",
+    "origenNombre": "Del planeta Neptuno",
+    "usos": [
+      "Investigación de reactores nucleares avanzados",
+      "Detectores de neutrones"
+    ],
+    "datosCuriosos": [
+      "Fue el primer elemento transuránico descubierto"
+    ]
+  },
+  {
+    "numeroAtomico": 94,
+    "simbolo": "Pu",
+    "nombre": "Plutonio",
+    "masaAtomica": 244.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 19.816,
+    "puntoFusion": 639.4,
+    "puntoEbullicion": 3228,
+    "electronegatividad": 1.28,
+    "configuracionElectronica": "[Rn] 5f6 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      24,
+      8,
+      2
+    ],
+    "valencias": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "estadosOxidacion": [
+      4
+    ],
+    "descubrimiento": "Glenn T. Seaborg y equipo",
+    "añoDescubrimiento": 1940,
+    "descubridor": "Glenn T. Seaborg y equipo",
+    "origenNombre": "Del planeta Plutón",
+    "usos": [
+      "Combustible en reactores nucleares",
+      "Fuente de energía en sondas espaciales",
+      "Armamento nuclear (histórico)"
+    ],
+    "datosCuriosos": [
+      "Se usó para alimentar las sondas espaciales Voyager",
+      "Es uno de los materiales más peligrosos si se manipula sin control"
+    ]
+  },
+  {
+    "numeroAtomico": 95,
+    "simbolo": "Am",
+    "nombre": "Americio",
+    "masaAtomica": 243.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 12.0,
+    "puntoFusion": 1176,
+    "puntoEbullicion": 2607,
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Rn] 5f7 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      25,
+      8,
+      2
+    ],
+    "valencias": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Glenn T. Seaborg y equipo",
+    "añoDescubrimiento": 1944,
+    "descubridor": "Glenn T. Seaborg y equipo",
+    "origenNombre": "En honor al continente americano",
+    "usos": [
+      "Detectores de humo domésticos",
+      "Instrumentos de medición industrial"
+    ],
+    "datosCuriosos": [
+      "Se encuentra en la mayoría de los detectores de humo domésticos comunes"
+    ]
+  },
+  {
+    "numeroAtomico": 96,
+    "simbolo": "Cm",
+    "nombre": "Curio",
+    "masaAtomica": 247.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 13.51,
+    "puntoFusion": 1345,
+    "puntoEbullicion": 3110,
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Rn] 5f7 6d1 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      25,
+      9,
+      2
+    ],
+    "valencias": [
+      3,
+      4
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Glenn T. Seaborg y equipo",
+    "añoDescubrimiento": 1944,
+    "descubridor": "Glenn T. Seaborg y equipo",
+    "origenNombre": "En honor a Marie y Pierre Curie",
+    "usos": [
+      "Fuente de energía en instrumentos espaciales (análisis de suelo en Marte)",
+      "Investigación científica"
+    ],
+    "datosCuriosos": [
+      "Se usó en los instrumentos de análisis de suelo de los róvers de Marte"
+    ]
+  },
+  {
+    "numeroAtomico": 97,
+    "simbolo": "Bk",
+    "nombre": "Berkelio",
+    "masaAtomica": 247.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 14.78,
+    "puntoFusion": 1050,
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Rn] 5f9 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      27,
+      8,
+      2
+    ],
+    "valencias": [
+      3,
+      4
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Glenn T. Seaborg y equipo",
+    "añoDescubrimiento": 1949,
+    "descubridor": "Glenn T. Seaborg y equipo",
+    "origenNombre": "De Berkeley, California",
+    "usos": [
+      "Investigación científica (síntesis de elementos más pesados)"
+    ],
+    "datosCuriosos": [
+      "Se produce solo en cantidades microscópicas en laboratorio"
+    ]
+  },
+  {
+    "numeroAtomico": 98,
+    "simbolo": "Cf",
+    "nombre": "Californio",
+    "masaAtomica": 251.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 15.1,
+    "puntoFusion": 900,
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Rn] 5f10 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      28,
+      8,
+      2
+    ],
+    "valencias": [
+      2,
+      3,
+      4
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Glenn T. Seaborg y equipo",
+    "añoDescubrimiento": 1950,
+    "descubridor": "Glenn T. Seaborg y equipo",
+    "origenNombre": "Por el estado de California",
+    "usos": [
+      "Fuente de neutrones para inspección de equipaje y pozos petroleros",
+      "Tratamiento de ciertos tipos de cáncer"
+    ],
+    "datosCuriosos": [
+      "Un gramo cuesta decenas de millones de dólares al producirse"
+    ]
+  },
+  {
+    "numeroAtomico": 99,
+    "simbolo": "Es",
+    "nombre": "Einstenio",
+    "masaAtomica": 252.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": 8.84,
+    "puntoFusion": 860,
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Rn] 5f11 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      29,
+      8,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Equipo del Lawrence Berkeley National Laboratory",
+    "añoDescubrimiento": 1952,
+    "descubridor": "Equipo del Lawrence Berkeley National Laboratory",
+    "origenNombre": "En honor a Albert Einstein",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Fue descubierto en los restos de la primera prueba de bomba de hidrógeno"
+    ]
+  },
+  {
+    "numeroAtomico": 100,
+    "simbolo": "Fm",
+    "nombre": "Fermio",
+    "masaAtomica": 257.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": 1527,
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Rn] 5f12 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      30,
+      8,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Equipo del Lawrence Berkeley National Laboratory",
+    "añoDescubrimiento": 1952,
+    "descubridor": "Equipo del Lawrence Berkeley National Laboratory",
+    "origenNombre": "En honor a Enrico Fermi",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Al igual que el einstenio, fue hallado en los restos de una prueba termonuclear"
+    ]
+  },
+  {
+    "numeroAtomico": 101,
+    "simbolo": "Md",
+    "nombre": "Mendelevio",
+    "masaAtomica": 258.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": 827,
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Rn] 5f13 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      31,
+      8,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Equipo del Lawrence Berkeley National Laboratory",
+    "añoDescubrimiento": 1955,
+    "descubridor": "Equipo del Lawrence Berkeley National Laboratory",
+    "origenNombre": "En honor a Dmitri Mendeléyev",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Honra al creador de la tabla periódica moderna"
+    ]
+  },
+  {
+    "numeroAtomico": 102,
+    "simbolo": "No",
+    "nombre": "Nobelio",
+    "masaAtomica": 259.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "f",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": 827,
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Rn] 5f14 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      8,
+      2
+    ],
+    "valencias": [
+      2,
+      3
+    ],
+    "estadosOxidacion": [
+      2
+    ],
+    "descubrimiento": "Instituto Conjunto de Investigaciones Nucleares de Dubná",
+    "añoDescubrimiento": 1966,
+    "descubridor": "Instituto Conjunto de Investigaciones Nucleares de Dubná",
+    "origenNombre": "En honor a Alfred Nobel",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Su descubrimiento fue disputado entre laboratorios de EE. UU. y la URSS"
+    ]
+  },
+  {
+    "numeroAtomico": 103,
+    "simbolo": "Lr",
+    "nombre": "Lawrencio",
+    "masaAtomica": 266.0,
+    "familia": "Actínidos",
+    "categoria": "Actínidos",
+    "bloque": "d",
+    "grupo": -1,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": 1627,
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": 1.3,
+    "configuracionElectronica": "[Rn] 5f14 7s2 7p1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      8,
+      3
+    ],
+    "valencias": [
+      3
+    ],
+    "estadosOxidacion": [
+      3
+    ],
+    "descubrimiento": "Lawrence Berkeley National Laboratory",
+    "añoDescubrimiento": 1961,
+    "descubridor": "Lawrence Berkeley National Laboratory",
+    "origenNombre": "En honor a Ernest Lawrence",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Es el último elemento de la serie de los actínidos"
+    ]
+  },
+  {
+    "numeroAtomico": 104,
+    "simbolo": "Rf",
+    "nombre": "Rutherfordio",
+    "masaAtomica": 267.0,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 4,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d2 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      10,
+      2
+    ],
+    "valencias": [
+      4
+    ],
+    "estadosOxidacion": [
+      4
+    ],
+    "descubrimiento": "Instituto Conjunto de Investigaciones Nucleares / Lawrence Berkeley National Laboratory",
+    "añoDescubrimiento": 1964,
+    "descubridor": "Instituto Conjunto de Investigaciones Nucleares / Lawrence Berkeley National Laboratory",
+    "origenNombre": "En honor a Ernest Rutherford",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Solo se han producido unos pocos átomos en laboratorio"
+    ]
+  },
+  {
+    "numeroAtomico": 105,
+    "simbolo": "Db",
+    "nombre": "Dubnio",
+    "masaAtomica": 268.0,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 5,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d3 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      11,
+      2
+    ],
+    "valencias": [
+      5
+    ],
+    "estadosOxidacion": [
+      5
+    ],
+    "descubrimiento": "Instituto Conjunto de Investigaciones Nucleares de Dubná",
+    "añoDescubrimiento": 1968,
+    "descubridor": "Instituto Conjunto de Investigaciones Nucleares de Dubná",
+    "origenNombre": "De Dubná, Rusia",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Se producen solo unos pocos átomos a la vez en aceleradores de partículas"
+    ]
+  },
+  {
+    "numeroAtomico": 106,
+    "simbolo": "Sg",
+    "nombre": "Seaborgio",
+    "masaAtomica": 269.0,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 6,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d4 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      12,
+      2
+    ],
+    "valencias": [
+      6
+    ],
+    "estadosOxidacion": [
+      6
+    ],
+    "descubrimiento": "Lawrence Berkeley National Laboratory",
+    "añoDescubrimiento": 1974,
+    "descubridor": "Lawrence Berkeley National Laboratory",
+    "origenNombre": "En honor a Glenn T. Seaborg",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Es el único elemento nombrado en honor a una persona que aún vivía al momento del nombramiento"
+    ]
+  },
+  {
+    "numeroAtomico": 107,
+    "simbolo": "Bh",
+    "nombre": "Bohrio",
+    "masaAtomica": 270.0,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 7,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d5 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      13,
+      2
+    ],
+    "valencias": [
+      7
+    ],
+    "estadosOxidacion": [
+      7
+    ],
+    "descubrimiento": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "añoDescubrimiento": 1981,
+    "descubridor": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "origenNombre": "En honor a Niels Bohr",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Existe solo durante fracciones de segundo antes de decaer"
+    ]
+  },
+  {
+    "numeroAtomico": 108,
+    "simbolo": "Hs",
+    "nombre": "Hassio",
+    "masaAtomica": 269.0,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 8,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d6 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      14,
+      2
+    ],
+    "valencias": [
+      8
+    ],
+    "estadosOxidacion": [
+      8
+    ],
+    "descubrimiento": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "añoDescubrimiento": 1984,
+    "descubridor": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "origenNombre": "De Hesse, estado alemán",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Se han producido solo un puñado de átomos desde su descubrimiento"
+    ]
+  },
+  {
+    "numeroAtomico": 109,
+    "simbolo": "Mt",
+    "nombre": "Meitnerio",
+    "masaAtomica": 278.0,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 9,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d7 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      15,
+      2
+    ],
+    "valencias": [
+      "No disponible"
+    ],
+    "estadosOxidacion": [
+      "No disponible"
+    ],
+    "descubrimiento": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "añoDescubrimiento": 1982,
+    "descubridor": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "origenNombre": "En honor a Lise Meitner",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Honra a una de las científicas clave en el descubrimiento de la fisión nuclear"
+    ]
+  },
+  {
+    "numeroAtomico": 110,
+    "simbolo": "Ds",
+    "nombre": "Darmstadio",
+    "masaAtomica": 281.0,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 10,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d8 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      16,
+      2
+    ],
+    "valencias": [
+      "No disponible"
+    ],
+    "estadosOxidacion": [
+      "No disponible"
+    ],
+    "descubrimiento": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "añoDescubrimiento": 1994,
+    "descubridor": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "origenNombre": "De Darmstadt, Alemania",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Fue descubierto en el mismo laboratorio que lleva su nombre"
+    ]
+  },
+  {
+    "numeroAtomico": 111,
+    "simbolo": "Rg",
+    "nombre": "Roentgenio",
+    "masaAtomica": 282.0,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 11,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d9 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      17,
+      2
+    ],
+    "valencias": [
+      "No disponible"
+    ],
+    "estadosOxidacion": [
+      "No disponible"
+    ],
+    "descubrimiento": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "añoDescubrimiento": 1994,
+    "descubridor": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "origenNombre": "En honor a Wilhelm Röntgen",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Honra al descubridor de los rayos X"
+    ]
+  },
+  {
+    "numeroAtomico": 112,
+    "simbolo": "Cn",
+    "nombre": "Copernicio",
+    "masaAtomica": 285.0,
+    "familia": "Metales de transición",
+    "categoria": "Metales de transición",
+    "bloque": "d",
+    "grupo": 12,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d10 7s2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      2
+    ],
+    "valencias": [
+      2
+    ],
+    "estadosOxidacion": [
+      2
+    ],
+    "descubrimiento": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "añoDescubrimiento": 1996,
+    "descubridor": "Instituto de Investigación de Iones Pesados (Darmstadt)",
+    "origenNombre": "En honor a Nicolás Copérnico",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Se comporta de forma similar al mercurio en experimentos químicos"
+    ]
+  },
+  {
+    "numeroAtomico": 113,
+    "simbolo": "Nh",
+    "nombre": "Nihonio",
+    "masaAtomica": 286.0,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 13,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d10 7s2 7p1",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      3
+    ],
+    "valencias": [
+      "No disponible"
+    ],
+    "estadosOxidacion": [
+      "No disponible"
+    ],
+    "descubrimiento": "RIKEN (Japón)",
+    "añoDescubrimiento": 2004,
+    "descubridor": "RIKEN (Japón)",
+    "origenNombre": "De 'Nihon', Japón en japonés",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Es el primer elemento descubierto y nombrado por científicos asiáticos"
+    ]
+  },
+  {
+    "numeroAtomico": 114,
+    "simbolo": "Fl",
+    "nombre": "Flerovio",
+    "masaAtomica": 289.0,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 14,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d10 7s2 7p2",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      4
+    ],
+    "valencias": [
+      "No disponible"
+    ],
+    "estadosOxidacion": [
+      "No disponible"
+    ],
+    "descubrimiento": "Instituto Conjunto de Investigaciones Nucleares de Dubná",
+    "añoDescubrimiento": 1998,
+    "descubridor": "Instituto Conjunto de Investigaciones Nucleares de Dubná",
+    "origenNombre": "En honor a Gueorgui Fliórov",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Se predice que podría tener propiedades similares a un gas noble"
+    ]
+  },
+  {
+    "numeroAtomico": 115,
+    "simbolo": "Mc",
+    "nombre": "Moscovio",
+    "masaAtomica": 290.0,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 15,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d10 7s2 7p3",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      5
+    ],
+    "valencias": [
+      "No disponible"
+    ],
+    "estadosOxidacion": [
+      "No disponible"
+    ],
+    "descubrimiento": "Instituto Conjunto de Investigaciones Nucleares de Dubná",
+    "añoDescubrimiento": 2003,
+    "descubridor": "Instituto Conjunto de Investigaciones Nucleares de Dubná",
+    "origenNombre": "En honor a Moscú, Rusia",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Existe únicamente por fracciones de segundo tras su síntesis"
+    ]
+  },
+  {
+    "numeroAtomico": 116,
+    "simbolo": "Lv",
+    "nombre": "Livermorio",
+    "masaAtomica": 293.0,
+    "familia": "Metales postransición",
+    "categoria": "Metales postransición",
+    "bloque": "p",
+    "grupo": 16,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d10 7s2 7p4",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      6
+    ],
+    "valencias": [
+      "No disponible"
+    ],
+    "estadosOxidacion": [
+      "No disponible"
+    ],
+    "descubrimiento": "Instituto Conjunto de Investigaciones Nucleares / Lawrence Livermore National Laboratory",
+    "añoDescubrimiento": 2000,
+    "descubridor": "Instituto Conjunto de Investigaciones Nucleares / Lawrence Livermore National Laboratory",
+    "origenNombre": "En honor al Lawrence Livermore National Laboratory",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Es uno de los elementos superpesados más recientes en confirmarse"
+    ]
+  },
+  {
+    "numeroAtomico": 117,
+    "simbolo": "Ts",
+    "nombre": "Teneso",
+    "masaAtomica": 294.0,
+    "familia": "Halógenos",
+    "categoria": "Halógenos",
+    "bloque": "p",
+    "grupo": 17,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d10 7s2 7p5",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      7
+    ],
+    "valencias": [
+      "No disponible"
+    ],
+    "estadosOxidacion": [
+      "No disponible"
+    ],
+    "descubrimiento": "Instituto Conjunto de Investigaciones Nucleares / Oak Ridge National Laboratory",
+    "añoDescubrimiento": 2010,
+    "descubridor": "Instituto Conjunto de Investigaciones Nucleares / Oak Ridge National Laboratory",
+    "origenNombre": "Por el estado de Tennessee, EE. UU.",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Fue el penúltimo elemento en completar la tabla periódica de 118"
+    ]
+  },
+  {
+    "numeroAtomico": 118,
+    "simbolo": "Og",
+    "nombre": "Oganesón",
+    "masaAtomica": 294.0,
+    "familia": "Gases nobles",
+    "categoria": "Gases nobles",
+    "bloque": "p",
+    "grupo": 18,
+    "periodo": 7,
+    "estado": "Sólido",
+    "densidad": "No disponible",
+    "puntoFusion": "No disponible",
+    "puntoEbullicion": "No disponible",
+    "electronegatividad": "No disponible",
+    "configuracionElectronica": "[Rn] 5f14 6d10 7s2 7p6",
+    "electronesPorNivel": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      8
+    ],
+    "valencias": [
+      0
+    ],
+    "estadosOxidacion": [
+      0
+    ],
+    "descubrimiento": "Instituto Conjunto de Investigaciones Nucleares / Lawrence Livermore National Laboratory",
+    "añoDescubrimiento": 2002,
+    "descubridor": "Instituto Conjunto de Investigaciones Nucleares / Lawrence Livermore National Laboratory",
+    "origenNombre": "En honor a Yuri Oganesián",
+    "usos": [
+      "Investigación científica fundamental"
+    ],
+    "datosCuriosos": [
+      "Es el elemento más pesado descubierto hasta la fecha",
+      "Es el único elemento nombrado en honor a una persona viva actualmente"
+    ]
+  }
+]
