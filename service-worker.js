@@ -4,7 +4,7 @@
    segundo plano. Permite el funcionamiento completo sin conexión.
    ========================================================================== */
 
-const CACHE_NAME = "tabla-periodica-v3";
+const CACHE_NAME = "tabla-periodica-v4";
 
 const ASSETS_TO_CACHE = [
   "./",

@@ -663,6 +663,7 @@
       setupElementPanel();
       setupCompare();
       setupFamilies();
+      setupExtraFeatures();
 
       document.getElementById("searchInput").addEventListener("input", applySearchAndFilters);
       document.getElementById("randomBtn").addEventListener("click", randomElement);
@@ -824,7 +825,8 @@ function setupExtraFeatures() {
     start.addEventListener("click", newRound); restart.addEventListener("click", newRound);
   }
 
-  document.addEventListener("DOMContentLoaded", () => { setupAdvancedSearch(); setupQuiz(); });
+    setupAdvancedSearch();
+    setupQuiz();
   }
 
 })();
